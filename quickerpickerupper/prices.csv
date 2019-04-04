@@ -1,0 +1,3303 @@
+ItemId,ItemName,Value
+2,Cannonball,205
+6,Cannon base,183500
+8,Cannon stand,186300
+10,Cannon barrels,186400
+12,Cannon furnace,190200
+28,Insect repellent,134
+30,Bucket of wax,529
+36,Candle,113
+39,Bronze arrowtips,5
+40,Iron arrowtips,9
+41,Steel arrowtips,43
+42,Mithril arrowtips,52
+43,Adamant arrowtips,126
+44,Rune arrowtips,269
+45,Opal bolt tips,7
+46,Pearl bolt tips,30
+47,Barb bolttips,50
+48,Longbow (u),6
+50,Shortbow (u),2
+52,Arrow shaft,1
+53,Headless arrow,6
+54,Oak shortbow (u),9
+56,Oak longbow (u),12
+58,Willow longbow (u),15
+60,Willow shortbow (u),20
+62,Maple longbow (u),53
+64,Maple shortbow (u),48
+66,Yew longbow (u),336
+68,Yew shortbow (u),193
+70,Magic longbow (u),1124
+72,Magic shortbow (u),834
+91,Guam potion (unf),92
+93,Marrentill potion (unf),31
+95,Tarromin potion (unf),215
+97,Harralander potion (unf),1016
+99,Ranarr potion (unf),7969
+101,Irit potion (unf),1099
+103,Avantoe potion (unf),2424
+105,Kwuarm potion (unf),1957
+107,Cadantine potion (unf),1891
+109,Dwarf weed potion (unf),1255
+111,Torstol potion (unf),8233
+113,Strength potion(4),303
+115,Strength potion(3),217
+117,Strength potion(2),151
+119,Strength potion(1),71
+121,Attack potion(3),3
+123,Attack potion(2),10
+125,Attack potion(1),13
+127,Restore potion(3),77
+129,Restore potion(2),98
+131,Restore potion(1),101
+133,Defence potion(3),391
+135,Defence potion(2),317
+137,Defence potion(1),214
+139,Prayer potion(3),7456
+141,Prayer potion(2),4958
+143,Prayer potion(1),2467
+145,Super attack(3),199
+147,Super attack(2),219
+149,Super attack(1),172
+151,Fishing potion(3),135
+153,Fishing potion(2),1376
+155,Fishing potion(1),817
+157,Super strength(3),1947
+159,Super strength(2),1465
+161,Super strength(1),746
+163,Super defence(3),827
+165,Super defence(2),900
+167,Super defence(1),603
+169,Ranging potion(3),1374
+171,Ranging potion(2),1008
+173,Ranging potion(1),563
+175,Antipoison(3),165
+177,Antipoison(2),147
+179,Antipoison(1),122
+181,Superantipoison(3),467
+183,Superantipoison(2),321
+185,Superantipoison(1),234
+187,Weapon poison,368
+189,Zamorak brew(3),2187
+191,Zamorak brew(2),2325
+193,Zamorak brew(1),1450
+197,Poison chalice,750
+199,Grimy guam leaf,9
+201,Grimy marrentill,13
+203,Grimy tarromin,123
+205,Grimy harralander,840
+207,Grimy ranarr weed,7745
+209,Grimy irit leaf,895
+211,Grimy avantoe,2210
+213,Grimy kwuarm,1764
+215,Grimy cadantine,1635
+217,Grimy dwarf weed,1065
+219,Grimy torstol,12100
+221,Eye of newt,4
+223,Red spiders' eggs,76
+225,Limpwurt root,1295
+227,Vial of water,5
+229,Vial,2
+231,Snape grass,45
+233,Pestle and mortar,417
+235,Unicorn horn dust,293
+237,Unicorn horn,223
+239,White berries,688
+241,Dragon scale dust,190
+243,Blue dragon scale,559
+245,Wine of zamorak,2073
+247,Jangerberries,183
+249,Guam leaf,16
+251,Marrentill,23
+253,Tarromin,145
+255,Harralander,880
+257,Ranarr weed,7777
+259,Irit leaf,940
+261,Avantoe,2242
+263,Kwuarm,1783
+265,Cadantine,1577
+267,Dwarf weed,1067
+269,Torstol,12200
+272,Fish food,364
+273,Poison,393
+288,Goblin mail,104
+299,Mithril seeds,113
+301,Lobster pot,148
+303,Small fishing net,128
+305,Big fishing net,241
+307,Fishing rod,121
+309,Fly fishing rod,66
+311,Harpoon,149
+313,Fishing bait,4
+314,Feather,3
+315,Shrimps,5
+317,Raw shrimps,26
+319,Anchovies,75
+321,Raw anchovies,60
+325,Sardine,7
+327,Raw sardine,32
+329,Salmon,50
+331,Raw salmon,51
+333,Trout,19
+335,Raw trout,19
+339,Cod,38
+341,Raw cod,208
+345,Raw herring,52
+347,Herring,9
+349,Raw pike,78
+351,Pike,22
+353,Raw mackerel,72
+355,Mackerel,10
+359,Raw tuna,80
+361,Tuna,77
+363,Raw bass,290
+365,Bass,264
+371,Raw swordfish,410
+373,Swordfish,404
+377,Raw lobster,294
+379,Lobster,229
+383,Raw shark,867
+385,Shark,909
+389,Raw manta ray,1076
+391,Manta ray,1137
+395,Raw sea turtle,882
+397,Sea turtle,1058
+401,Seaweed,53
+403,Edible seaweed,33
+405,Casket,836
+407,Oyster,37
+411,Oyster pearl,55
+413,Oyster pearls,671
+426,Priest gown,30
+428,Priest gown,28
+434,Clay,172
+436,Copper ore,43
+438,Tin ore,48
+440,Iron ore,187
+442,Silver ore,82
+444,Gold ore,347
+447,Mithril ore,186
+449,Adamantite ore,1231
+451,Runite ore,11200
+453,Coal,178
+464,Strange fruit,532
+526,Bones,64
+528,Burnt bones,212
+530,Bat bones,344
+532,Big bones,287
+534,Babydragon bones,1074
+536,Dragon bones,2690
+538,Druid's robe,851
+540,Druid's robe top,1341
+542,Monk's robe,237
+544,Monk's robe top,642
+546,Shade robe top,865
+548,Shade robe,643
+554,Fire rune,6
+555,Water rune,5
+556,Air rune,6
+557,Earth rune,5
+558,Mind rune,4
+559,Body rune,5
+560,Death rune,284
+561,Nature rune,255
+562,Chaos rune,101
+563,Law rune,256
+564,Cosmic rune,140
+565,Blood rune,361
+566,Soul rune,147
+567,Unpowered orb,112
+569,Fire orb,1471
+571,Water orb,1397
+573,Air orb,1474
+575,Earth orb,1199
+577,Blue wizard robe,2866
+579,Blue wizard hat,212
+581,Black robe,2115
+590,Tinderbox,107
+592,Ashes,34
+596,Unlit torch,1
+621,Ship ticket,71
+626,Pink boots,540
+628,Green boots,562
+630,Blue boots,729
+632,Cream boots,383
+634,Turquoise boots,600
+636,Pink robe top,579
+638,Green robe top,619
+640,Blue robe top,605
+642,Cream robe top,440
+644,Turquoise robe top,246
+646,Pink robe bottoms,250
+648,Green robe bottoms,401
+650,Blue robe bottoms,578
+652,Cream robe bottoms,385
+654,Turquoise robe bottoms,428
+656,Pink hat,688
+658,Green hat,734
+660,Blue hat,668
+662,Cream hat,878
+664,Turquoise hat,746
+751,Gnomeball,2814
+753,Cadava berries,36
+800,Bronze thrownaxe,12
+801,Iron thrownaxe,43
+802,Steel thrownaxe,14
+803,Mithril thrownaxe,80
+804,Adamant thrownaxe,107
+805,Rune thrownaxe,195
+806,Bronze dart,20
+807,Iron dart,17
+808,Steel dart,16
+809,Mithril dart,28
+810,Adamant dart,128
+811,Rune dart,1108
+812,Bronze dart(p),9
+813,Iron dart(p),14
+814,Steel dart(p),18
+815,Mithril dart(p),77
+816,Adamant dart(p),127
+817,Rune dart(p),1104
+819,Bronze dart tip,34
+820,Iron dart tip,44
+821,Steel dart tip,59
+822,Mithril dart tip,81
+823,Adamant dart tip,209
+824,Rune dart tip,1266
+825,Bronze javelin,2
+826,Iron javelin,2
+827,Steel javelin,12
+828,Mithril javelin,32
+829,Adamant javelin,70
+830,Rune javelin,155
+831,Bronze javelin(p),6
+832,Iron javelin(p),21
+833,Steel javelin(p),83
+834,Mithril javelin(p),38
+835,Adamant javelin(p),114
+836,Rune javelin(p),352
+837,Crossbow,184
+839,Longbow,52
+841,Shortbow,29
+843,Oak shortbow,45
+845,Oak longbow,51
+847,Willow longbow,118
+849,Willow shortbow,88
+851,Maple longbow,286
+853,Maple shortbow,186
+855,Yew longbow,596
+857,Yew shortbow,344
+859,Magic longbow,1365
+861,Magic shortbow,928
+863,Iron knife,50
+864,Bronze knife,30
+865,Steel knife,69
+866,Mithril knife,155
+867,Adamant knife,423
+868,Rune knife,484
+869,Black knife,64
+870,Bronze knife(p),34
+871,Iron knife(p),116
+872,Steel knife(p),66
+873,Mithril knife(p),179
+874,Black knife(p),123
+875,Adamant knife(p),393
+876,Rune knife(p),751
+877,Bronze bolts,3
+878,Bronze bolts(p),42
+879,Opal bolts,15
+880,Pearl bolts,73
+881,Barbed bolts,56
+882,Bronze arrow,6
+883,Bronze arrow(p),45
+884,Iron arrow,9
+885,Iron arrow(p),29
+886,Steel arrow,42
+887,Steel arrow(p),25
+888,Mithril arrow,37
+889,Mithril arrow(p),100
+890,Adamant arrow,68
+891,Adamant arrow(p),157
+892,Rune arrow,96
+893,Rune arrow(p),221
+946,Knife,117
+948,Bear fur,60
+950,Silk,8
+952,Spade,127
+954,Rope,66
+958,Grey wolf fur,49
+960,Plank,305
+962,Christmas cracker,42800
+970,Papyrus,216
+973,Charcoal,296
+975,Machete,373
+981,Disk of returning,3069
+983,Brass key,298
+985,Tooth half of key,13900
+987,Loop half of key,9203
+989,Crystal key,23700
+991,Muddy key,3085
+993,Sinister key,38300
+1005,White apron,43
+1007,Red cape,72
+1009,Brass necklace,58
+1011,Blue skirt,83
+1013,Pink skirt,49
+1015,Black skirt,36
+1017,Wizard hat,291
+1019,Black cape,425
+1021,Blue cape,429
+1023,Yellow cape,167
+1025,Right eye patch,220
+1027,Green cape,393
+1029,Purple cape,814
+1031,Orange cape,1064
+1033,Zamorak robe,1786
+1035,Zamorak robe,934
+1038,Red partyhat,17100
+1040,Yellow partyhat,10100
+1042,Blue partyhat,59100
+1044,Green partyhat,14300
+1046,Purple partyhat,12800
+1048,White partyhat,15900
+1050,Santa hat,34800
+1053,Green halloween mask,11000
+1055,Blue halloween mask,10800
+1057,Red halloween mask,17000
+1059,Leather gloves,3
+1061,Leather boots,12
+1063,Leather vambraces,1
+1065,Green d'hide vamb,1332
+1067,Iron platelegs,113
+1069,Steel platelegs,393
+1071,Mithril platelegs,1380
+1073,Adamant platelegs,3587
+1075,Bronze platelegs,40
+1077,Black platelegs,2451
+1079,Rune platelegs,37900
+1081,Iron plateskirt,59
+1083,Steel plateskirt,404
+1085,Mithril plateskirt,1380
+1087,Bronze plateskirt,49
+1089,Black plateskirt,2142
+1091,Adamant plateskirt,3957
+1093,Rune plateskirt,37900
+1095,Leather chaps,1
+1097,Studded chaps,382
+1099,Green d'hide chaps,2136
+1101,Iron chainbody,84
+1103,Bronze chainbody,26
+1105,Steel chainbody,265
+1107,Black chainbody,2352
+1109,Mithril chainbody,953
+1111,Adamant chainbody,2718
+1113,Rune chainbody,29600
+1115,Iron platebody,147
+1117,Bronze platebody,14
+1119,Steel platebody,964
+1121,Mithril platebody,2803
+1123,Adamant platebody,9497
+1125,Black platebody,4510
+1127,Rune platebody,38600
+1129,Leather body,7
+1131,Hardleather body,7
+1133,Studded body,423
+1135,Green d'hide body,4278
+1137,Iron med helm,32
+1139,Bronze med helm,26
+1141,Steel med helm,47
+1143,Mithril med helm,310
+1145,Adamant med helm,922
+1147,Rune med helm,11200
+1149,Dragon med helm,59200
+1151,Black med helm,163
+1153,Iron full helm,80
+1155,Bronze full helm,19
+1157,Steel full helm,163
+1159,Mithril full helm,821
+1161,Adamant full helm,1852
+1163,Rune full helm,20700
+1165,Black full helm,769
+1167,Leather cowl,1
+1169,Coif,20
+1171,Wooden shield,103
+1173,Bronze sq shield,25
+1175,Iron sq shield,42
+1177,Steel sq shield,211
+1179,Black sq shield,478
+1181,Mithril sq shield,704
+1183,Adamant sq shield,2045
+1185,Rune sq shield,22600
+1187,Dragon sq shield,301200
+1189,Bronze kiteshield,20
+1191,Iron kiteshield,30
+1193,Steel kiteshield,312
+1195,Black kiteshield,1029
+1197,Mithril kiteshield,1084
+1199,Adamant kiteshield,3003
+1201,Rune kiteshield,32200
+1203,Iron dagger,7
+1205,Bronze dagger,15
+1207,Steel dagger,15
+1209,Mithril dagger,60
+1211,Adamant dagger,290
+1213,Rune dagger,4523
+1215,Dragon dagger,17600
+1217,Black dagger,170
+1219,Iron dagger(p),306
+1221,Bronze dagger(p),250
+1223,Steel dagger(p),444
+1225,Mithril dagger(p),597
+1227,Adamant dagger(p),709
+1229,Rune dagger(p),6729
+1231,Dragon dagger(p),18300
+1233,Black dagger(p),1629
+1237,Bronze spear,274
+1239,Iron spear,33
+1241,Steel spear,212
+1243,Mithril spear,314
+1245,Adamant spear,1025
+1247,Rune spear,12100
+1249,Dragon spear,37400
+1251,Bronze spear(p),2673
+1253,Iron spear(p),1116
+1255,Steel spear(p),1542
+1257,Mithril spear(p),309
+1259,Adamant spear(p),1022
+1261,Rune spear(p),25300
+1263,Dragon spear(p),48800
+1265,Bronze pickaxe,61
+1267,Iron pickaxe,137
+1269,Steel pickaxe,1070
+1271,Adamant pickaxe,4216
+1273,Mithril pickaxe,518
+1275,Rune pickaxe,18800
+1277,Bronze sword,8
+1279,Iron sword,23
+1281,Steel sword,50
+1283,Black sword,223
+1285,Mithril sword,309
+1287,Adamant sword,1077
+1289,Rune sword,12200
+1291,Bronze longsword,23
+1293,Iron longsword,29
+1295,Steel longsword,126
+1297,Black longsword,386
+1299,Mithril longsword,554
+1301,Adamant longsword,1637
+1303,Rune longsword,18700
+1305,Dragon longsword,59500
+1307,Bronze 2h sword,46
+1309,Iron 2h sword,66
+1311,Steel 2h sword,383
+1313,Black 2h sword,957
+1315,Mithril 2h sword,1298
+1317,Adamant 2h sword,3529
+1319,Rune 2h sword,37900
+1321,Bronze scimitar,14
+1323,Iron scimitar,17
+1325,Steel scimitar,68
+1327,Black scimitar,2256
+1329,Mithril scimitar,416
+1331,Adamant scimitar,1423
+1333,Rune scimitar,15100
+1335,Iron warhammer,26
+1337,Bronze warhammer,5
+1339,Steel warhammer,180
+1341,Black warhammer,381
+1343,Mithril warhammer,746
+1345,Adamant warhammer,2228
+1347,Rune warhammer,24600
+1349,Iron axe,20
+1351,Bronze axe,38
+1353,Steel axe,34
+1355,Mithril axe,145
+1357,Adamant axe,641
+1359,Rune axe,7303
+1361,Black axe,796
+1363,Iron battleaxe,30
+1365,Steel battleaxe,190
+1367,Black battleaxe,527
+1369,Mithril battleaxe,799
+1371,Adamant battleaxe,2218
+1373,Rune battleaxe,24600
+1375,Bronze battleaxe,18
+1377,Dragon battleaxe,119400
+1379,Staff,85
+1381,Staff of air,1658
+1383,Staff of water,1911
+1385,Staff of earth,1158
+1387,Staff of fire,1219
+1389,Magic staff,39
+1391,Battlestaff,8294
+1393,Fire battlestaff,9067
+1395,Water battlestaff,9048
+1397,Air battlestaff,9050
+1399,Earth battlestaff,9048
+1401,Mystic fire staff,25300
+1403,Mystic water staff,25200
+1405,Mystic air staff,25200
+1407,Mystic earth staff,25100
+1420,Iron mace,30
+1422,Bronze mace,16
+1424,Steel mace,45
+1426,Black mace,142
+1428,Mithril mace,174
+1430,Adamant mace,641
+1432,Rune mace,8294
+1434,Dragon mace,29600
+1436,Rune essence,14
+1438,Air talisman,57
+1440,Earth talisman,208
+1442,Fire talisman,1996
+1444,Water talisman,191
+1446,Body talisman,724
+1448,Mind talisman,1056
+1452,Chaos talisman,815
+1454,Cosmic talisman,1052
+1456,Death talisman,4062
+1462,Nature talisman,1410
+1464,Archery ticket,7
+1470,Red bead,1781
+1472,Yellow bead,2632
+1474,Black bead,1704
+1476,White bead,2032
+1478,Amulet of accuracy,1094
+1511,Logs,70
+1513,Magic logs,1132
+1515,Yew logs,278
+1517,Maple logs,7
+1519,Willow logs,15
+1521,Oak logs,118
+1523,Lockpick,260
+1539,Steel nails,32
+1540,Anti-dragon shield,79
+1550,Garlic,32
+1552,Seasoned sardine,431
+1573,Doogle leaves,85
+1592,Ring mould,51
+1595,Amulet mould,56
+1597,Necklace mould,96
+1599,Holy mould,19
+1601,Diamond,2072
+1603,Ruby,1054
+1605,Emerald,578
+1607,Sapphire,700
+1609,Opal,182
+1611,Jade,536
+1613,Red topaz,4911
+1615,Dragonstone,11900
+1617,Uncut diamond,3728
+1619,Uncut ruby,1740
+1621,Uncut emerald,920
+1623,Uncut sapphire,982
+1625,Uncut opal,132
+1627,Uncut jade,329
+1629,Uncut red topaz,4358
+1631,Uncut dragonstone,14400
+1635,Gold ring,137
+1637,Sapphire ring,897
+1639,Emerald ring,719
+1641,Ruby ring,1076
+1643,Diamond ring,1955
+1645,Dragonstone ring,11900
+1654,Gold necklace,130
+1656,Sapphire necklace,896
+1658,Emerald necklace,746
+1660,Ruby necklace,1185
+1662,Diamond necklace,2091
+1664,Dragon necklace,12000
+1673,Gold amulet (u),137
+1675,Sapphire amulet (u),609
+1677,Emerald amulet (u),685
+1679,Ruby amulet (u),1138
+1681,Diamond amulet (u),2050
+1683,Dragonstone amulet (u),12200
+1692,Gold amulet,93
+1694,Sapphire amulet,514
+1696,Emerald amulet,692
+1698,Ruby amulet,1220
+1700,Diamond amulet,2126
+1702,Dragonstone amulet,12200
+1704,Amulet of glory,12600
+1712,Amulet of glory(4),12700
+1714,Unstrung symbol,129
+1716,Unblessed symbol,72
+1718,Holy symbol,383
+1720,Unstrung emblem,444
+1722,Unpowered symbol,285
+1724,Unholy symbol,178
+1725,Amulet of strength,1461
+1727,Amulet of magic,689
+1729,Amulet of defence,952
+1731,Amulet of power,2453
+1733,Needle,48
+1734,Thread,10
+1735,Shears,35
+1737,Wool,161
+1739,Cowhide,177
+1741,Leather,217
+1743,Hard leather,225
+1745,Green dragon leather,1717
+1747,Black dragonhide,3100
+1749,Red dragonhide,2528
+1751,Blue dragonhide,1926
+1753,Green dragonhide,1510
+1755,Chisel,131
+1757,Brown apron,119
+1759,Ball of wool,62
+1761,Soft clay,220
+1763,Red dye,294
+1765,Yellow dye,268
+1767,Blue dye,429
+1769,Orange dye,770
+1771,Green dye,378
+1773,Purple dye,431
+1775,Molten glass,195
+1777,Bow string,157
+1779,Flax,2
+1781,Soda ash,89
+1783,Bucket of sand,55
+1785,Glassblowing pipe,131
+1787,Unfired pot,122
+1789,Unfired pie dish,226
+1791,Unfired bowl,262
+1793,Woad leaf,61
+1794,Bronze wire,147
+1823,Waterskin(4),97
+1831,Waterskin(0),36
+1833,Desert shirt,138
+1835,Desert robe,119
+1837,Desert boots,226
+1854,Shantay pass,11
+1859,Raw ugthanki meat,130
+1861,Ugthanki meat,116
+1865,Pitta bread,9
+1869,Chopped tomato,9
+1871,Chopped onion,7
+1873,Chopped ugthanki,1
+1875,Onion & tomato,4
+1877,Ugthanki & onion,2
+1879,Ugthanki & tomato,1
+1881,Kebab mix,149
+1885,Ugthanki kebab,836
+1887,Cake tin,54
+1891,Cake,185
+1897,Chocolate cake,328
+1905,Asgarnian ale,126
+1907,Wizard's mind bomb,124
+1909,Greenman's ale,543
+1911,Dragon bitter,287
+1913,Dwarven stout,110
+1915,Grog,839
+1917,Beer,125
+1919,Beer glass,52
+1921,Bowl of water,86
+1923,Bowl,61
+1925,Bucket,24
+1927,Bucket of milk,34
+1929,Bucket of water,43
+1931,Pot,9
+1933,Pot of flour,105
+1935,Jug,2
+1937,Jug of water,36
+1939,Swamp tar,17
+1941,Swamp paste,121
+1942,Potato,27
+1944,Egg,88
+1947,Grain,33
+1949,Chef's hat,233
+1951,Redberries,35
+1953,Pastry dough,199
+1955,Cooking apple,211
+1957,Onion,24
+1959,Pumpkin,18500
+1961,Easter egg,6015
+1963,Banana,67
+1965,Cabbage,36
+1969,Spinach roll,109
+1971,Kebab,26
+1973,Chocolate bar,61
+1975,Chocolate dust,80
+1978,Cup of tea,23
+1980,Empty cup,29
+1982,Tomato,60
+1985,Cheese,30
+1987,Grapes,177
+1989,Half full wine jug,7706
+1993,Jug of wine,3
+2003,Stew,287
+2007,Spice,114
+2011,Curry,783
+2015,Vodka,237
+2017,Whisky,42
+2019,Gin,38
+2021,Brandy,31
+2023,Cocktail guide,5
+2025,Cocktail shaker,78
+2026,Cocktail glass,201
+2028,Premade blurb' sp.,280
+2030,Premade choc s'dy,23
+2032,Premade dr' dragon,23
+2034,Premade fr' blast,20
+2036,Premade p' punch,22
+2038,Premade sgg,22
+2040,Premade wiz blz'd,20
+2048,Pineapple punch,26
+2054,Wizard blizzard,26
+2064,Blurberry special,2982
+2074,Choc saturday,22
+2080,Short green guy,25
+2084,Fruit blast,1630
+2092,Drunk dragon,24
+2102,Lemon,79
+2104,Lemon chunks,134
+2106,Lemon slices,72
+2108,Orange,119
+2110,Orange chunks,162
+2112,Orange slices,202
+2114,Pineapple,165
+2116,Pineapple chunks,232
+2118,Pineapple ring,93
+2120,Lime,89
+2122,Lime chunks,180
+2124,Lime slices,175
+2126,Dwellberries,98
+2128,Equa leaves,127
+2130,Pot of cream,25
+2132,Raw beef,40
+2134,Raw rat meat,32
+2136,Raw bear meat,235
+2138,Raw chicken,43
+2140,Cooked chicken,62
+2142,Cooked meat,47
+2150,Swamp toad,283
+2152,Toad's legs,457
+2162,King worm,370
+2164,Batta tin,5
+2165,Crunchy tray,41
+2166,Gnomebowl mould,195
+2167,Gianne's cook book,18
+2169,Gnome spice,165
+2171,Gianne dough,10
+2185,Chocolate bomb,881
+2187,Tangled toad's legs,1993
+2191,Worm hole,1177
+2195,Veg ball,696
+2203,Rock-climbing boots,82600
+2205,Worm crunchies,874
+2209,Chocchip crunchies,1082
+2213,Spicy crunchies,451
+2217,Toad crunchies,3720
+2219,Premade w'm batta,40
+2221,Premade t'd batta,40
+2223,Premade c+t batta,41
+2225,Premade fr't batta,40
+2227,Premade veg batta,40
+2229,Premade choc bomb,89
+2231,Premade ttl,71
+2233,Premade worm hole,43
+2235,Premade veg ball,44
+2237,Premade w'm crun',40
+2239,Premade ch' crunch,41
+2241,Premade s'y crunch,40
+2243,Premade t'd crunch,201
+2253,Worm batta,665
+2255,Toad batta,609
+2259,Cheese+tom batta,625
+2277,Fruit batta,856
+2281,Vegetable batta,765
+2283,Pizza base,202
+2289,Plain pizza,483
+2293,Meat pizza,496
+2297,Anchovy pizza,590
+2301,Pineapple pizza,785
+2307,Bread dough,179
+2309,Bread,112
+2313,Pie dish,44
+2315,Pie shell,421
+2317,Uncooked apple pie,652
+2319,Uncooked meat pie,674
+2321,Uncooked berry pie,651
+2323,Apple pie,189
+2325,Redberry pie,81
+2327,Meat pie,104
+2337,Raw oomlie,920
+2341,Wrapped oomlie,4036
+2343,Cooked oomlie wrap,6554
+2347,Hammer,60
+2349,Bronze bar,192
+2351,Iron bar,306
+2353,Steel bar,532
+2355,Silver bar,140
+2357,Gold bar,83
+2359,Mithril bar,758
+2361,Adamantite bar,2072
+2363,Runite bar,12400
+2366,Shield left half,65700
+2368,Shield right half,758500
+2370,Steel studs,437
+2428,Attack potion(4),5
+2430,Restore potion(4),131
+2432,Defence potion(4),592
+2434,Prayer potion(4),10100
+2436,Super attack(4),283
+2438,Fishing potion(4),66
+2440,Super strength(4),2645
+2442,Super defence(4),1101
+2444,Ranging potion(4),1953
+2446,Antipoison(4),251
+2448,Superantipoison(4),653
+2450,Zamorak brew(4),2761
+2452,Antifire potion(4),396
+2454,Antifire potion(3),284
+2456,Antifire potion(2),409
+2458,Antifire potion(1),316
+2460,Assorted flowers,36
+2462,Red flowers,31
+2464,Blue flowers,15
+2466,Yellow flowers,16
+2468,Purple flowers,31
+2470,Orange flowers,31
+2472,Mixed flowers,20
+2474,White flowers,168300
+2476,Black flowers,37000
+2481,Lantadyme,1636
+2483,Lantadyme potion (unf),1853
+2485,Grimy lantadyme,1616
+2487,Blue d'hide vamb,1559
+2489,Red d'hide vamb,1914
+2491,Black d'hide vamb,2505
+2493,Blue d'hide chaps,2297
+2495,Red d'hide chaps,3147
+2497,Black d'hide chaps,5729
+2499,Blue d'hide body,5183
+2501,Red d'hide body,6254
+2503,Black d'hide body,7603
+2505,Blue dragon leather,2147
+2507,Red dragon leather,2723
+2509,Black dragon leather,3322
+2520,Brown toy horsey,195
+2522,White toy horsey,292
+2524,Black toy horsey,180
+2526,Grey toy horsey,162
+2550,Ring of recoil,1199
+2552,Ring of dueling(8),982
+2568,Ring of forging,1049
+2570,Ring of life,1916
+2572,Ring of wealth,12400
+2577,Ranger boots,36200000
+2579,Wizard boots,434300
+2581,Robin hood hat,2600000
+2583,Black platebody (t),62100
+2585,Black platelegs (t),26100
+2587,Black full helm (t),28800
+2589,Black kiteshield (t),39200
+2591,Black platebody (g),255900
+2593,Black platelegs (g),113200
+2595,Black full helm (g),154500
+2597,Black kiteshield (g),124700
+2599,Adamant platebody (t),10100
+2601,Adamant platelegs (t),4656
+2603,Adamant kiteshield (t),4263
+2605,Adamant full helm (t),3579
+2607,Adamant platebody (g),56300
+2609,Adamant platelegs (g),13500
+2611,Adamant kiteshield (g),28100
+2613,Adamant full helm (g),25500
+2615,Rune platebody (g),88700
+2617,Rune platelegs (g),88000
+2619,Rune full helm (g),92500
+2621,Rune kiteshield (g),124200
+2623,Rune platebody (t),43700
+2625,Rune platelegs (t),41700
+2627,Rune full helm (t),34100
+2629,Rune kiteshield (t),44000
+2631,Highwayman mask,54000
+2633,Blue beret,22500
+2635,Black beret,54600
+2637,White beret,36200
+2639,Tan cavalier,2395
+2641,Dark cavalier,2349
+2643,Black cavalier,24400
+2645,Red headband,2626
+2647,Black headband,6225
+2649,Brown headband,997
+2651,Pirate's hat,14000
+2653,Zamorak platebody,55000
+2655,Zamorak platelegs,53600
+2657,Zamorak full helm,167600
+2659,Zamorak kiteshield,217300
+2661,Saradomin platebody,86900
+2663,Saradomin platelegs,64500
+2665,Saradomin full helm,61600
+2667,Saradomin kiteshield,87200
+2669,Guthix platebody,44100
+2671,Guthix platelegs,40400
+2673,Guthix full helm,32300
+2675,Guthix kiteshield,39300
+2859,Wolf bones,392
+2861,Wolfbone arrowtips,114
+2862,Achey tree logs,215
+2864,Ogre arrow shaft,59
+2865,Flighted ogre arrow,95
+2866,Ogre arrow,231
+2876,Raw chompy,1468
+2878,Cooked chompy,24
+2890,Elemental shield,1616
+2894,Grey boots,1035
+2896,Grey robe top,942
+2898,Grey robe bottoms,1060
+2900,Grey hat,1499
+2902,Grey gloves,1192
+2904,Red boots,1312
+2906,Red robe top,1068
+2908,Red robe bottoms,1101
+2910,Red hat,1160
+2912,Red gloves,970
+2914,Yellow boots,1312
+2916,Yellow robe top,1000
+2918,Yellow robe bottoms,863
+2920,Yellow hat,1006
+2922,Yellow gloves,947
+2924,Teal boots,915
+2926,Teal robe top,859
+2928,Teal robe bottoms,958
+2930,Teal hat,913
+2932,Teal gloves,621
+2934,Purple boots,1053
+2936,Purple robe top,875
+2938,Purple robe bottoms,885
+2940,Purple hat,1267
+2942,Purple gloves,786
+2955,Moonlight mead,222
+2961,Silver sickle,120
+2970,Mort myre fungus,717
+2972,Mort myre stem,199
+2974,Mort myre pear,323
+2976,Sickle mould,46
+2997,Pirate's hook,5500000
+2998,Toadflax,2726
+3000,Snapdragon,9104
+3002,Toadflax potion (unf),2901
+3004,Snapdragon potion (unf),9365
+3008,Energy potion(4),552
+3010,Energy potion(3),393
+3012,Energy potion(2),283
+3014,Energy potion(1),143
+3016,Super energy(4),2677
+3018,Super energy(3),2148
+3020,Super energy(2),1684
+3022,Super energy(1),902
+3024,Super restore(4),10500
+3026,Super restore(3),7793
+3028,Super restore(2),5159
+3030,Super restore(1),2597
+3032,Agility potion(4),1215
+3034,Agility potion(3),839
+3036,Agility potion(2),757
+3038,Agility potion(1),679
+3040,Magic potion(4),138
+3042,Magic potion(3),94
+3044,Magic potion(2),63
+3046,Magic potion(1),64
+3049,Grimy toadflax,2650
+3051,Grimy snapdragon,9051
+3053,Lava battlestaff,9656
+3054,Mystic lava staff,26400
+3093,Black dart,398
+3094,Black dart(p),16
+3095,Bronze claws,20
+3096,Iron claws,126
+3097,Steel claws,7
+3098,Black claws,653
+3099,Mithril claws,319
+3100,Adamant claws,1675
+3101,Rune claws,6932
+3105,Climbing boots,557
+3107,Spiked boots,1952
+3122,Granite shield,33200
+3123,Shaikahan bones,6775
+3125,Jogre bones,1214
+3138,Potato cactus,307
+3140,Dragon chainbody,697000
+3142,Raw karambwan,575
+3144,Cooked karambwan,662
+3157,Karambwan vessel,446
+3159,Karambwan vessel,1142
+3162,Sliced banana,17
+3183,Monkey bones,432
+3188,Cleaning cloth,366
+3190,Bronze halberd,234
+3192,Iron halberd,590
+3194,Steel halberd,15100
+3196,Black halberd,9783
+3198,Mithril halberd,9423
+3200,Adamant halberd,13200
+3202,Rune halberd,38000
+3204,Dragon halberd,149300
+3211,Limestone,88
+3216,Barrel,210
+3226,Raw rabbit,234
+3228,Cooked rabbit,237
+3239,Bark,461
+3325,Vampire dust,57
+3327,Myre snelm,281
+3329,Blood'n'tar snelm,459
+3331,Ochre snelm,1153
+3333,Bruise blue snelm,357
+3335,Broken bark snelm,2504
+3337,Myre snelm,2754
+3339,Blood'n'tar snelm,902
+3341,Ochre snelm,2210
+3343,Bruise blue snelm,3754
+3345,Blamish myre shell,138
+3347,Blamish red shell,326
+3349,Blamish ochre shell,1071
+3351,Blamish blue shell,413
+3353,Blamish bark shell,319
+3355,Blamish myre shell,900
+3357,Blamish red shell,2006
+3359,Blamish ochre shell,528
+3361,Blamish blue shell,2663
+3363,Thin snail,532
+3365,Lean snail,941
+3367,Fat snail,975
+3369,Thin snail meat,398
+3371,Lean snail meat,326
+3373,Fat snail meat,766
+3379,Raw slimy eel,345
+3381,Cooked slimy eel,267
+3385,Splitbark helm,5922
+3387,Splitbark body,27100
+3389,Splitbark legs,23700
+3391,Splitbark gauntlets,2728
+3393,Splitbark boots,4220
+3396,Loar remains,59
+3398,Phrin remains,386
+3400,Riyl remains,632
+3402,Asyn remains,2384
+3404,Fiyr remains,2783
+3406,Unfinished potion,212
+3408,Serum 207 (4),1
+3410,Serum 207 (3),1
+3412,Serum 207 (2),4
+3414,Serum 207 (1),10
+3420,Limestone brick,215
+3422,Olive oil(4),18
+3424,Olive oil(3),41
+3426,Olive oil(2),25
+3428,Olive oil(1),23
+3430,Sacred oil(4),1394
+3432,Sacred oil(3),1973
+3434,Sacred oil(2),585
+3436,Sacred oil(1),366
+3438,Pyre logs,1070
+3440,Oak pyre logs,1198
+3442,Willow pyre logs,1833
+3444,Maple pyre logs,1714
+3446,Yew pyre logs,1706
+3448,Magic pyre logs,2367
+3470,Fine cloth,1417
+3472,Black plateskirt (t),1451
+3473,Black plateskirt (g),4311
+3474,Adamant plateskirt (t),3517
+3475,Adamant plateskirt (g),3708
+3476,Rune plateskirt (g),39300
+3477,Rune plateskirt (t),38400
+3478,Zamorak plateskirt,38500
+3479,Saradomin plateskirt,38300
+3480,Guthix plateskirt,38900
+3481,Gilded platebody,1400000
+3483,Gilded platelegs,4100000
+3485,Gilded plateskirt,368900
+3486,Gilded full helm,1100000
+3488,Gilded kiteshield,1200000
+3678,Flamtaer hammer,7214
+3749,Archer helm,52900
+3751,Berserker helm,61100
+3753,Warrior helm,46000
+3755,Farseer helm,45000
+3759,Fremennik cyan cloak,1141
+3761,Fremennik brown cloak,296
+3763,Fremennik blue cloak,1105
+3765,Fremennik green cloak,1204
+3767,Fremennik brown shirt,268
+3769,Fremennik grey shirt,1274
+3771,Fremennik beige shirt,1208
+3773,Fremennik red shirt,1263
+3775,Fremennik blue shirt,1004
+3777,Fremennik red cloak,1041
+3779,Fremennik grey cloak,1236
+3781,Fremennik yellow cloak,1224
+3783,Fremennik teal cloak,924
+3785,Fremennik purple cloak,405
+3787,Fremennik pink cloak,780
+3789,Fremennik black cloak,1240
+3791,Fremennik boots,329
+3793,Fremennik robe,991
+3795,Fremennik skirt,924
+3797,Fremennik hat,2028
+3799,Fremennik gloves,518
+3801,Keg of beer,1388
+3803,Beer tankard,313
+3827,Saradomin page 1,3166
+3828,Saradomin page 2,3068
+3829,Saradomin page 3,2741
+3830,Saradomin page 4,2967
+3831,Zamorak page 1,418500
+3832,Zamorak page 2,476700
+3833,Zamorak page 3,366400
+3834,Zamorak page 4,549000
+3835,Guthix page 1,2987
+3836,Guthix page 2,3058
+3837,Guthix page 3,3374
+3838,Guthix page 4,2620
+3853,Games necklace(8),1214
+4012,Monkey nuts,355
+4014,Monkey bar,606
+4016,Banana stew,6
+4087,Dragon platelegs,161400
+4089,Mystic hat,12900
+4091,Mystic robe top,71700
+4093,Mystic robe bottom,47700
+4095,Mystic gloves,5956
+4097,Mystic boots,8073
+4099,Mystic hat (dark),97400
+4101,Mystic robe top (dark),72300
+4103,Mystic robe bottom (dark),48000
+4105,Mystic gloves (dark),7397
+4107,Mystic boots (dark),86700
+4109,Mystic hat (light),9525
+4111,Mystic robe top (light),72700
+4113,Mystic robe bottom (light),47800
+4115,Mystic gloves (light),5789
+4117,Mystic boots (light),23200
+4119,Bronze boots,659
+4121,Iron boots,5711
+4123,Steel boots,72
+4125,Black boots,353
+4127,Mithril boots,784
+4129,Adamant boots,1768
+4131,Rune boots,7380
+4151,Abyssal whip,2800000
+4153,Granite maul,33000
+4156,Mirror shield,5037
+4161,Bag of salt,23
+4162,Rock hammer,505
+4164,Facemask,505
+4166,Earmuffs,496
+4168,Nose peg,437
+4170,Slayer's staff,22000
+4207,Crystal seed,3078
+4212,New crystal bow,916200
+4224,New crystal shield,759500
+4298,Ham shirt,134
+4300,Ham robe,317
+4302,Ham hood,437
+4304,Ham cloak,2062
+4306,Ham logo,1919
+4308,Ham gloves,1300
+4310,Ham boots,2640
+4315,Team-1 cape,643
+4317,Team-2 cape,356
+4319,Team-3 cape,354
+4321,Team-4 cape,535
+4323,Team-5 cape,755
+4325,Team-6 cape,48
+4327,Team-7 cape,404
+4329,Team-8 cape,385
+4331,Team-9 cape,228
+4333,Team-10 cape,220
+4335,Team-11 cape,332
+4337,Team-12 cape,517
+4339,Team-13 cape,485
+4341,Team-14 cape,632
+4343,Team-15 cape,822
+4345,Team-16 cape,51
+4347,Team-17 cape,374
+4349,Team-18 cape,326
+4351,Team-19 cape,230
+4353,Team-20 cape,128
+4355,Team-21 cape,501
+4357,Team-22 cape,383
+4359,Team-23 cape,387
+4361,Team-24 cape,653
+4363,Team-25 cape,587
+4365,Team-26 cape,91
+4367,Team-27 cape,303
+4369,Team-28 cape,492
+4371,Team-29 cape,380
+4373,Team-30 cape,320
+4375,Team-31 cape,408
+4377,Team-32 cape,384
+4379,Team-33 cape,419
+4381,Team-34 cape,282
+4383,Team-35 cape,827
+4385,Team-36 cape,20
+4387,Team-37 cape,393
+4389,Team-38 cape,481
+4391,Team-39 cape,247
+4393,Team-40 cape,196
+4395,Team-41 cape,438
+4397,Team-42 cape,580
+4399,Team-43 cape,442
+4401,Team-44 cape,616
+4403,Team-45 cape,874
+4405,Team-46 cape,29
+4407,Team-47 cape,344
+4409,Team-48 cape,400
+4411,Team-49 cape,307
+4413,Team-50 cape,302
+4417,Guthix rest(4),2421
+4419,Guthix rest(3),1604
+4421,Guthix rest(2),1100
+4423,Guthix rest(1),534
+4436,Airtight pot,1017
+4438,Unfired pot lid,118
+4440,Pot lid,305
+4456,Bowl of hot water,237
+4458,Cup of water,69
+4460,Cup of hot water,376
+4517,Giant frog legs,924
+4522,Oil lamp,681
+4525,Empty oil lamp,4
+4527,Empty candle lantern,4
+4529,Candle lantern,345
+4532,Candle lantern,7311
+4535,Empty oil lantern,58
+4537,Oil lantern,992
+4540,Oil lantern frame,96
+4542,Lantern lens,6
+4544,Bullseye lantern (unf),282
+4546,Bullseye lantern (empty),459
+4548,Bullseye lantern,1977
+4551,Spiny helmet,821
+4580,Black spear,249
+4582,Black spear(p),10500
+4585,Dragon plateskirt,161300
+4587,Dragon scimitar,59700
+4591,Kharidian headpiece,191
+4593,Fake beard,210
+4595,Karidian disguise,41
+4600,Willow blackjack,192
+4608,Super kebab,436
+4627,Bandit's brew,1540
+4668,Garlic powder,21
+4675,Ancient staff,85500
+4684,Linen,1049
+4687,Bucket of sap,304
+4689,Pile of salt,37
+4694,Steam rune,87
+4695,Mist rune,61
+4696,Dust rune,4
+4697,Smoke rune,48
+4698,Mud rune,208
+4699,Lava rune,4
+4708,Ahrim's hood,49200
+4710,Ahrim's staff,126500
+4712,Ahrim's robetop,2500000
+4714,Ahrim's robeskirt,1900000
+4716,Dharok's helm,297000
+4718,Dharok's greataxe,447000
+4720,Dharok's platebody,1400000
+4722,Dharok's platelegs,1200000
+4724,Guthan's helm,1100000
+4726,Guthan's warspear,1000000
+4728,Guthan's platebody,1100000
+4730,Guthan's chainskirt,617900
+4732,Karil's coif,76100
+4734,Karil's crossbow,156800
+4736,Karil's leathertop,1800000
+4738,Karil's leatherskirt,159400
+4740,Bolt rack,75
+4745,Torag's helm,240300
+4747,Torag's hammers,126300
+4749,Torag's platebody,275800
+4751,Torag's platelegs,267900
+4753,Verac's helm,290700
+4755,Verac's flail,156700
+4757,Verac's brassard,232200
+4759,Verac's plateskirt,1000000
+4773,Bronze brutal,99
+4778,Iron brutal,98
+4783,Steel brutal,102
+4788,Black brutal,145
+4793,Mithril brutal,180
+4798,Adamant brutal,280
+4803,Rune brutal,981
+4812,Zogre bones,616
+4819,Bronze nails,5
+4820,Iron nails,21
+4821,Black nails,1109
+4822,Mithril nails,51
+4823,Adamantite nails,136
+4824,Rune nails,806
+4825,Unstrung comp bow,157
+4827,Comp ogre bow,1371
+4830,Fayrg bones,4581
+4832,Raurg bones,8076
+4834,Ourg bones,31800
+4842,Relicym's balm(4),995
+4844,Relicym's balm(3),554
+4846,Relicym's balm(2),1022
+4848,Relicym's balm(1),635
+4850,Ogre coffin key,1514
+4860,Ahrim's hood 0,15400
+4866,Ahrim's staff 0,62000
+4872,Ahrim's robetop 0,2400000
+4878,Ahrim's robeskirt 0,1800000
+4884,Dharok's helm 0,260700
+4890,Dharok's greataxe 0,390100
+4896,Dharok's platebody 0,1300000
+4902,Dharok's platelegs 0,1200000
+4908,Guthan's helm 0,1100000
+4914,Guthan's warspear 0,918100
+4920,Guthan's platebody 0,1000000
+4926,Guthan's chainskirt 0,420000
+4932,Karil's coif 0,35900
+4938,Karil's crossbow 0,95800
+4944,Karil's leathertop 0,1700000
+4950,Karil's leatherskirt 0,104500
+4956,Torag's helm 0,172400
+4962,Torag's hammers 0,97100
+4968,Torag's platebody 0,204400
+4974,Torag's platelegs 0,211400
+4980,Verac's helm 0,262600
+4986,Verac's flail 0,98700
+4992,Verac's brassard 0,177300
+4998,Verac's plateskirt 0,947400
+5001,Raw cave eel,650
+5003,Cave eel,672
+5014,Mining helmet,1085
+5016,Bone spear,323
+5018,Bone club,476
+5024,Woven top,2495
+5026,Woven top,1954
+5028,Woven top,1734
+5030,Shirt,2206
+5032,Shirt,2179
+5034,Shirt,1273
+5036,Trousers,2073
+5038,Trousers,1811
+5040,Trousers,1402
+5042,Shorts,1815
+5044,Shorts,1531
+5046,Shorts,1893
+5048,Skirt,2217
+5050,Skirt,1364
+5052,Skirt,1566
+5075,Bird nest,1648
+5096,Marigold seed,1
+5097,Rosemary seed,2
+5098,Nasturtium seed,1
+5099,Woad seed,2
+5100,Limpwurt seed,280
+5101,Redberry seed,1
+5102,Cadavaberry seed,1
+5103,Dwellberry seed,1
+5104,Jangerberry seed,2
+5105,Whiteberry seed,76
+5106,Poison ivy seed,568
+5280,Cactus seed,227
+5281,Belladonna seed,82
+5282,Mushroom spore,66
+5283,Apple tree seed,4
+5284,Banana tree seed,2
+5285,Orange tree seed,7
+5286,Curry tree seed,98
+5287,Pineapple seed,4974
+5288,Papaya tree seed,14100
+5289,Palm tree seed,70800
+5290,Calquat tree seed,271
+5291,Guam seed,6
+5292,Marrentill seed,3
+5293,Tarromin seed,7
+5294,Harralander seed,31
+5295,Ranarr seed,44000
+5296,Toadflax seed,3351
+5297,Irit seed,94
+5298,Avantoe seed,1600
+5299,Kwuarm seed,1024
+5300,Snapdragon seed,56600
+5301,Cadantine seed,869
+5302,Lantadyme seed,1924
+5303,Dwarf weed seed,1099
+5304,Torstol seed,87600
+5305,Barley seed,67
+5306,Jute seed,56
+5307,Hammerstone seed,53
+5308,Asgarnian seed,54
+5309,Yanillian seed,76
+5310,Krandorian seed,89
+5311,Wildblood seed,477
+5312,Acorn,26
+5313,Willow seed,3545
+5314,Maple seed,36300
+5315,Yew seed,80900
+5316,Magic seed,182100
+5318,Potato seed,1
+5319,Onion seed,1
+5320,Sweetcorn seed,4
+5321,Watermelon seed,354
+5322,Tomato seed,1
+5323,Strawberry seed,22
+5324,Cabbage seed,1
+5325,Gardening trowel,235
+5329,Secateurs,230
+5331,Watering can,307
+5341,Rake,211
+5343,Seed dibber,218
+5345,Gardening boots,4254
+5350,Empty plant pot,3
+5352,Unfired plant pot,488
+5354,Filled plant pot,1
+5370,Oak sapling,310
+5371,Willow sapling,4281
+5372,Maple sapling,36700
+5373,Yew sapling,82000
+5374,Magic sapling,184800
+5376,Basket,2
+5386,Apples(5),1398
+5396,Oranges(5),891
+5406,Strawberries(5),875
+5416,Bananas(5),552
+5418,Empty sack,1
+5438,Potatoes(10),686
+5458,Onions(10),699
+5478,Cabbages(10),811
+5496,Apple sapling,236
+5497,Banana sapling,134
+5498,Orange sapling,180
+5499,Curry sapling,458
+5500,Pineapple sapling,5491
+5501,Papaya sapling,15000
+5502,Palm sapling,71500
+5503,Calquat sapling,949
+5504,Strawberry,125
+5516,Elemental talisman,3798
+5521,Binding necklace,984
+5523,Tiara mould,68
+5525,Tiara,47
+5527,Air tiara,7
+5529,Mind tiara,47
+5531,Water tiara,8
+5533,Body tiara,6
+5535,Earth tiara,3
+5537,Fire tiara,403
+5539,Cosmic tiara,16
+5541,Nature tiara,19
+5543,Chaos tiara,8
+5547,Death tiara,1899
+5574,Initiate sallet,3304
+5575,Initiate hauberk,5819
+5576,Initiate cuisse,4701
+5616,Bronze arrow(p+),9
+5617,Iron arrow(p+),16
+5618,Steel arrow(p+),203
+5619,Mithril arrow(p+),79
+5620,Adamant arrow(p+),491
+5621,Rune arrow(p+),526
+5622,Bronze arrow(p++),17
+5623,Iron arrow(p++),45
+5624,Steel arrow(p++),1054
+5625,Mithril arrow(p++),99
+5626,Adamant arrow(p++),66
+5627,Rune arrow(p++),1161
+5628,Bronze dart(p+),26
+5629,Iron dart(p+),19
+5630,Steel dart(p+),51
+5631,Black dart(p+),13
+5632,Mithril dart(p+),55
+5633,Adamant dart(p+),426
+5634,Rune dart(p+),1245
+5635,Bronze dart(p++),15
+5636,Iron dart(p++),31
+5637,Steel dart(p++),37
+5638,Black dart(p++),18
+5639,Mithril dart(p++),122
+5640,Adamant dart(p++),975
+5641,Rune dart(p++),2283
+5642,Bronze javelin(p+),6
+5643,Iron javelin(p+),6
+5644,Steel javelin(p+),8
+5645,Mithril javelin(p+),16
+5646,Adamant javelin(p+),108
+5647,Rune javelin(p+),349
+5648,Bronze javelin(p++),7
+5649,Iron javelin(p++),6
+5650,Steel javelin(p++),21
+5651,Mithril javelin(p++),14
+5652,Adamant javelin(p++),135
+5653,Rune javelin(p++),586
+5654,Bronze knife(p+),30
+5655,Iron knife(p+),91
+5656,Steel knife(p+),55
+5657,Mithril knife(p+),123
+5658,Black knife(p+),75
+5659,Adamant knife(p+),245
+5660,Rune knife(p+),866
+5661,Bronze knife(p++),57
+5662,Iron knife(p++),384
+5663,Steel knife(p++),134
+5664,Mithril knife(p++),622
+5665,Black knife(p++),211
+5666,Adamant knife(p++),1836
+5667,Rune knife(p++),944
+5668,Iron dagger(p+),3081
+5670,Bronze dagger(p+),9291
+5672,Steel dagger(p+),3046
+5674,Mithril dagger(p+),6778
+5676,Adamant dagger(p+),4253
+5678,Rune dagger(p+),4482
+5680,Dragon dagger(p+),18700
+5682,Black dagger(p+),13700
+5686,Iron dagger(p++),4659
+5688,Bronze dagger(p++),13700
+5690,Steel dagger(p++),6600
+5692,Mithril dagger(p++),6097
+5694,Adamant dagger(p++),6450
+5696,Rune dagger(p++),11600
+5698,Dragon dagger(p++),26900
+5700,Black dagger(p++),5188
+5704,Bronze spear(p+),699
+5706,Iron spear(p+),54
+5708,Steel spear(p+),181
+5710,Mithril spear(p+),6381
+5712,Adamant spear(p+),1376
+5714,Rune spear(p+),35900
+5716,Dragon spear(p+),54300
+5718,Bronze spear(p++),25
+5720,Iron spear(p++),18100
+5722,Steel spear(p++),270
+5724,Mithril spear(p++),20100
+5726,Adamant spear(p++),2191
+5728,Rune spear(p++),19300
+5730,Dragon spear(p++),41800
+5734,Black spear(p+),22700
+5736,Black spear(p++),11900
+5739,Asgarnian ale(m),706
+5741,Mature wmb,4896
+5743,Greenman's ale(m),41700
+5745,Dragon bitter(m),220
+5747,Dwarven stout(m),19100
+5749,Moonlight mead(m),3952
+5751,Axeman's folly,1728
+5753,Axeman's folly(m),46800
+5755,Chef's delight,2074
+5757,Chef's delight(m),48900
+5759,Slayer's respite,37
+5761,Slayer's respite(m),20900
+5763,Cider,783
+5765,Mature cider,25100
+5767,Ale yeast,771
+5769,Calquat keg,198
+5777,Dwarven stout(4),17700
+5785,Asgarnian ale(4),3180
+5793,Greenmans ale(4),21200
+5801,Mind bomb(4),14500
+5809,Dragon bitter(4),4396
+5817,Moonlight mead(4),150000
+5825,Axeman's folly(4),30900
+5833,Chef's delight(4),15800
+5841,Slayer's respite(4),65100
+5849,Cider(4),5065
+5857,Dwarven stout(m4),377700
+5865,Asgarnian ale(m4),2152
+5873,Greenmans ale(m4),176100
+5881,Mind bomb(m4),16200
+5889,Dragon bitter(m4),12500
+5897,Moonlight mead(m4),200000
+5905,Axeman's folly(m4),257400
+5913,Chef's delight(m4),191000
+5921,Slayer respite(m4),449100
+5929,Cider(m4),64800
+5931,Jute fibre,994
+5933,Willow branch,1351
+5935,Coconut milk,447
+5937,Weapon poison(+),1327
+5940,Weapon poison(++),7212
+5943,Antidote+(4),1343
+5945,Antidote+(3),2925
+5947,Antidote+(2),1902
+5949,Antidote+(1),1172
+5952,Antidote++(4),358
+5954,Antidote++(3),649
+5956,Antidote++(2),248
+5958,Antidote++(1),315
+5968,Tomatoes(5),537
+5970,Curry leaf,182
+5972,Papaya fruit,275
+5974,Coconut,339
+5980,Calquat fruit,136
+5982,Watermelon,13
+5984,Watermelon slice,41
+5986,Sweetcorn,176
+5988,Cooked sweetcorn,173
+5992,Apple mush,19
+5994,Hammerstone hops,67
+5996,Asgarnian hops,154
+5998,Yanillian hops,974
+6000,Krandorian hops,253
+6002,Wildblood hops,151
+6004,Mushroom,197
+6006,Barley,526
+6008,Barley malt,778
+6010,Marigolds,69
+6012,Nasturtiums,154
+6014,Rosemary,21
+6016,Cactus spine,1330
+6018,Poison ivy berries,374
+6032,Compost,25
+6034,Supercompost,504
+6036,Plant cure,298
+6038,Magic string,591
+6043,Oak roots,40
+6045,Willow roots,25
+6047,Maple roots,42
+6049,Yew roots,203
+6051,Magic roots,1735
+6055,Weeds,59
+6061,Bronze bolts(p+),85
+6062,Bronze bolts(p++),123
+6128,Rock-shell helm,22200
+6129,Rock-shell plate,39100
+6130,Rock-shell legs,38500
+6131,Spined helm,79900
+6133,Spined body,4517
+6135,Spined chaps,3468
+6137,Skeletal helm,87200
+6139,Skeletal top,26700
+6141,Skeletal bottoms,23800
+6143,Spined boots,50500
+6145,Rock-shell boots,593
+6147,Skeletal boots,92200
+6149,Spined gloves,28100
+6151,Rock-shell gloves,661
+6153,Skeletal gloves,119700
+6155,Dagannoth hide,305
+6157,Rock-shell chunk,11500
+6159,Rock-shell shard,18700
+6161,Rock-shell splinter,21700
+6163,Skull piece,39000
+6165,Ribcage piece,55300
+6167,Fibula piece,20800
+6169,Circular hide,55500
+6171,Flattened hide,13300
+6173,Stretched hide,24500
+6211,Teak pyre logs,2676
+6213,Mahogany pyre log,2247
+6215,Broodoo shield (10),6150
+6235,Broodoo shield,8442
+6237,Broodoo shield (10),7109
+6257,Broodoo shield,9784
+6259,Broodoo shield (10),3648
+6279,Broodoo shield,5613
+6281,Thatch spar light,4
+6283,Thatch spar med,6
+6285,Thatch spar dense,31
+6287,Snake hide,357
+6289,Snakeskin,25
+6291,Spider carcass,132
+6297,Spider on stick,324
+6299,Spider on shaft,340
+6305,Skewer stick,8
+6306,Trading sticks,8
+6311,Gout tuber,755200
+6313,Opal machete,253
+6315,Jade machete,9641
+6317,Red topaz machete,22100
+6319,Proboscis,165
+6322,Snakeskin body,670
+6324,Snakeskin chaps,509
+6326,Snakeskin bandana,122
+6328,Snakeskin boots,235
+6330,Snakeskin vambraces,251
+6332,Mahogany logs,410
+6333,Teak logs,293
+6335,Tribal mask,11200
+6337,Tribal mask,4796
+6339,Tribal mask,3190
+6341,Tribal top,5194
+6343,Villager robe,8588
+6345,Villager hat,5392
+6347,Villager armband,3710
+6349,Villager sandals,3742
+6351,Tribal top,5425
+6353,Villager robe,8333
+6355,Villager hat,5472
+6357,Villager sandals,5073
+6359,Villager armband,3736
+6361,Tribal top,4042
+6363,Villager robe,9091
+6365,Villager hat,8025
+6367,Villager sandals,4280
+6369,Villager armband,3905
+6371,Tribal top,4576
+6373,Villager robe,8910
+6375,Villager hat,6979
+6377,Villager sandals,4299
+6379,Villager armband,3564
+6382,Fez,662
+6384,Desert top,624
+6386,Desert robes,946
+6388,Desert top,883
+6390,Desert legs,1643
+6392,Menaphite purple hat,951
+6394,Menaphite purple top,873
+6396,Menaphite purple robe,916
+6398,Menaphite purple kilt,895
+6400,Menaphite red hat,1224
+6402,Menaphite red top,846
+6404,Menaphite red robe,1285
+6406,Menaphite red kilt,2263
+6408,Oak blackjack(o),455
+6410,Oak blackjack(d),370
+6412,Willow blackjack(o),1098
+6414,Willow blackjack(d),655
+6416,Maple blackjack,1851
+6418,Maple blackjack(o),3025
+6420,Maple blackjack(d),3716
+6470,Compost potion(4),859
+6472,Compost potion(3),426
+6474,Compost potion(2),335
+6476,Compost potion(1),163
+6522,Toktz-xil-ul,1706
+6523,Toktz-xil-ak,274500
+6524,Toktz-ket-xil,188000
+6525,Toktz-xil-ek,95000
+6526,Toktz-mej-tal,574400
+6527,Tzhaar-ket-em,218600
+6528,Tzhaar-ket-om,201900
+6562,Mud battlestaff,109400
+6563,Mystic mud staff,142100
+6568,Obsidian cape,740300
+6571,Uncut onyx,3000000
+6573,Onyx,3000000
+6575,Onyx ring,2900000
+6577,Onyx necklace,3000000
+6579,Onyx amulet (u),2900000
+6581,Onyx amulet,3100000
+6583,Ring of stone,2700000
+6585,Amulet of fury,3000000
+6587,White claws,2859
+6589,White battleaxe,4917
+6591,White dagger,128
+6593,White dagger(p),125
+6595,White dagger(p+),143
+6597,White dagger(p++),186
+6599,White halberd,7985
+6601,White mace,627
+6603,White magic staff,1199
+6605,White sword,6293
+6607,White longsword,11100
+6609,White 2h sword,2331
+6611,White scimitar,3669
+6613,White warhammer,1656
+6615,White chainbody,3260
+6617,White platebody,5031
+6619,White boots,1419
+6621,White med helm,11100
+6623,White full helm,2078
+6625,White platelegs,2771
+6627,White plateskirt,11800
+6629,White gloves,1320
+6631,White sq shield,11000
+6633,White kiteshield,2630
+6667,Empty fishbowl,3
+6681,Ground guam,2
+6685,Saradomin brew(4),2925
+6687,Saradomin brew(3),2078
+6689,Saradomin brew(2),1392
+6691,Saradomin brew(1),732
+6693,Crushed nest,1759
+6697,Pat of butter,73
+6701,Baked potato,97
+6703,Potato with butter,365
+6705,Potato with cheese,466
+6724,Seercull,24700
+6729,Dagannoth bones,9103
+6731,Seers ring,593200
+6733,Archers ring,4700000
+6735,Warrior ring,93700
+6737,Berserker ring,3600000
+6739,Dragon axe,54800
+6750,Black desert shirt,1482
+6752,Black desert robe,1458
+6760,Guthix mjolnir,3995
+6762,Saradomin mjolnir,3995
+6764,Zamorak mjolnir,4605
+6794,Choc-ice,92
+6809,Granite legs,39700
+6812,Wyvern bones,2680
+6814,Fur,148
+6889,Mage's book,6000000
+6891,Arena book,382
+6908,Beginner wand,245700
+6910,Apprentice wand,954600
+6912,Teacher wand,3000000
+6914,Master wand,5700000
+6916,Infinity top,4600000
+6918,Infinity hat,3900000
+6920,Infinity boots,1400000
+6922,Infinity gloves,2000000
+6924,Infinity bottoms,5500000
+6959,Pink cape,1468
+6962,Triangle sandwich,370
+6971,Sandstone (1kg),194
+6973,Sandstone (2kg),77
+6975,Sandstone (5kg),43
+6977,Sandstone (10kg),1798
+6979,Granite (500g),71
+6981,Granite (2kg),19
+6983,Granite (5kg),414
+7051,Unlit bug lantern,357
+7054,Chilli potato,433
+7056,Egg potato,644
+7058,Mushroom potato,955
+7060,Tuna potato,1235
+7062,Chilli con carne,18
+7064,Egg and tomato,87
+7066,Mushroom & onion,153
+7068,Tuna and corn,746
+7070,Minced meat,254
+7072,Spicy sauce,261
+7074,Chopped garlic,342
+7076,Uncooked egg,5
+7078,Scrambled egg,6
+7080,Sliced mushrooms,78
+7082,Fried mushrooms,134
+7084,Fried onions,16
+7086,Chopped tuna,174
+7088,Sweetcorn,374
+7110,Stripy pirate shirt,1439
+7112,Pirate bandana,759
+7114,Pirate boots,197
+7116,Pirate leggings,3032
+7122,Stripy pirate shirt,861
+7124,Pirate bandana,674
+7126,Pirate leggings,819
+7128,Stripy pirate shirt,1131
+7130,Pirate bandana,641
+7132,Pirate leggings,926
+7134,Stripy pirate shirt,970
+7136,Pirate bandana,214
+7138,Pirate leggings,1243
+7158,Dragon 2h sword,133500
+7159,Insulated boots,372
+7162,Pie recipe book,35
+7168,Raw mud pie,894
+7170,Mud pie,402
+7176,Raw garden pie,775
+7178,Garden pie,49
+7186,Raw fish pie,1580
+7188,Fish pie,61
+7196,Raw admiral pie,1453
+7198,Admiral pie,284
+7206,Raw wild pie,3160
+7208,Wild pie,782
+7216,Raw summer pie,1681
+7218,Summer pie,1237
+7223,Roast rabbit,199
+7225,Iron spit,50
+7228,Cooked chompy,7212
+7319,Red boater,1799
+7321,Orange boater,1771
+7323,Green boater,4513
+7325,Blue boater,3737
+7327,Black boater,1915
+7329,Red firelighter,46
+7330,Green firelighter,70
+7331,Blue firelighter,75
+7332,Black shield (h1),2254
+7334,Adamant shield (h1),3434
+7336,Rune shield (h1),79800
+7338,Black shield (h2),9558
+7340,Adamant shield (h2),3504
+7342,Rune shield (h2),43900
+7344,Black shield (h3),979
+7346,Adamant shield (h3),3264
+7348,Rune shield (h3),41900
+7350,Black shield (h4),1076
+7352,Adamant shield (h4),3457
+7354,Rune shield (h4),43600
+7356,Black shield (h5),1078
+7358,Adamant shield (h5),3620
+7360,Rune shield (h5),42300
+7362,Studded body (g),56100
+7364,Studded body (t),11900
+7366,Studded chaps (g),75200
+7368,Studded chaps (t),18200
+7370,Green d'hide body (g),6937
+7372,Green d'hide body (t),4687
+7374,Blue d'hide body (g),6539
+7376,Blue d'hide body (t),5287
+7378,Green d'hide chaps (g),82300
+7380,Green d'hide chaps (t),9449
+7382,Blue d'hide chaps (g),6322
+7384,Blue d'hide chaps (t),2740
+7386,Blue skirt (g),76700
+7388,Blue skirt (t),20600
+7390,Blue wizard robe (g),311100
+7392,Blue wizard robe (t),68200
+7394,Blue wizard hat (g),241200
+7396,Blue wizard hat (t),91200
+7398,Enchanted robe,68800
+7399,Enchanted top,79000
+7400,Enchanted hat,16900
+7416,Mole claw,4556
+7418,Mole skin,3732
+7433,Wooden spoon,48
+7435,Egg whisk,47
+7437,Spork,289
+7439,Spatula,1663
+7441,Frying pan,1546
+7443,Skewer,2820
+7445,Rolling pin,19800
+7447,Kitchen knife,6906
+7449,Meat tenderiser,34000
+7451,Cleaver,20700
+7466,Cornflour,133
+7468,Pot of cornflour,2061
+7521,Cooked crab meat,146
+7566,Raw jubbly,650
+7568,Cooked jubbly,1015
+7650,Silver dust,86
+7660,Guthix balance(4),337
+7662,Guthix balance(3),219
+7664,Guthix balance(2),422
+7666,Guthix balance(1),244
+7668,Gadderhammer,1577
+7759,Toy soldier,2640
+7761,Toy soldier (wound),4448
+7763,Toy doll,2718
+7765,Toy doll (wound),4410
+7767,Toy mouse,1905
+7769,Toy mouse (wound),2062
+7771,Toy cat,5654
+7801,Snake hide,579
+7919,Bottle of wine,319
+7936,Pure essence,4
+7939,Tortoise shell,1033
+7944,Raw monkfish,427
+7946,Monkfish,517
+8007,Varrock teleport,589
+8008,Lumbridge teleport,680
+8009,Falador teleport,607
+8010,Camelot teleport,435
+8011,Ardougne teleport,634
+8012,Watchtower teleport,505
+8013,Teleport to house,714
+8014,Bones to bananas,640
+8015,Bones to peaches,1044
+8016,Enchant sapphire,219
+8017,Enchant emerald,303
+8018,Enchant ruby,663
+8019,Enchant diamond,460
+8020,Enchant dragonstn.,432
+8021,Enchant onyx,704
+8417,Bagged dead tree,1524
+8419,Bagged nice tree,3087
+8421,Bagged oak tree,6281
+8423,Bagged willow tree,12900
+8425,Bagged maple tree,16800
+8427,Bagged yew tree,22800
+8429,Bagged magic tree,51600
+8431,Bagged plant 1,1818
+8433,Bagged plant 2,6144
+8435,Bagged plant 3,13000
+8437,Thorny hedge,5223
+8439,Nice hedge,10800
+8441,Small box hedge,15500
+8443,Topiary hedge,27100
+8445,Fancy hedge,26700
+8447,Tall fancy hedge,50600
+8449,Tall box hedge,105600
+8451,Bagged flower,5689
+8453,Bagged daffodils,11700
+8455,Bagged bluebells,17600
+8457,Bagged sunflower,5779
+8459,Bagged marigolds,11600
+8461,Bagged roses,17300
+8496,Crude chair,32
+8498,Wooden chair,15
+8500,Rocking chair,10
+8502,Oak chair,4
+8504,Oak armchair,5
+8506,Teak armchair,144
+8508,Mahogany armchair,1959
+8510,Bookcase,3
+8512,Oak bookcase,1
+8514,Mahogany bookcase,160
+8516,Beer barrel,11
+8518,Cider barrel,4865
+8520,Asgarnian ale,18800
+8522,Greenman's ale,4911
+8524,Dragon bitter,133
+8526,Chef's delight,45700
+8528,Kitchen table,9
+8530,Oak kitchen table,1
+8532,Teak kitchen table,560
+8534,Oak lectern,0
+8536,Eagle lectern,0
+8538,Demon lectern,0
+8540,Teak eagle lectern,0
+8542,Teak demon lectern,0
+8544,Mahogany eagle,0
+8546,Mahogany demon,0
+8548,Wood dining table,11
+8550,Oak dining table,3
+8552,Carved oak table,3
+8554,Teak table,60
+8556,Carved teak table,1041
+8558,Mahogany table,144
+8560,Opulent table,14300
+8562,Wooden bench,29
+8564,Oak bench,95
+8566,Carved oak bench,48
+8568,Teak dining bench,1408
+8570,Carved teak bench,1395
+8572,Mahogany bench,516
+8574,Gilded bench,200100
+8576,Wooden bed,92
+8578,Oak bed,189
+8580,Large oak bed,95
+8582,Teak bed,329
+8584,Large teak bed,445
+8586,Four-poster bed,7072
+8588,Gilded four-poster,23900
+8590,Oak clock,225
+8592,Teak clock,1035
+8594,Gilded clock,2163
+8596,Shaving stand,10
+8598,Oak shaving stand,73
+8600,Oak dresser,113
+8602,Teak dresser,128
+8604,Fancy teak dresser,225
+8606,Mahogany dresser,1827
+8608,Gilded dresser,14000
+8610,Shoe box,2
+8612,Oak drawers,15
+8614,Oak wardrobe,20
+8616,Teak drawers,80
+8618,Teak wardrobe,124
+8620,Mahogany wardrobe,1280
+8622,Gilded wardrobe,15400
+8624,Crystal ball,206
+8626,Elemental sphere,732
+8628,Crystal of power,4357
+8630,Globe,0
+8632,Ornamental globe,0
+8634,Lunar globe,0
+8636,Celestial globe,0
+8638,Armillary sphere,0
+8640,Small orrery,0
+8642,Large orrery,0
+8644,Wooden telescope,0
+8646,Teak telescope,0
+8648,Mahogany telescope,0
+8778,Oak plank,606
+8780,Teak plank,1044
+8782,Mahogany plank,2132
+8784,Gold leaf,133100
+8786,Marble block,327600
+8788,Magic stone,982900
+8790,Bolt of cloth,966
+8792,Clockwork,1103
+8794,Saw,236
+8837,Timber beam,14
+8872,Bone dagger,2534
+8874,Bone dagger (p),11000
+8876,Bone dagger (p+),8341
+8878,Bone dagger (p++),8158
+8880,Dorgeshuun crossbow,2858
+8882,Bone bolts,6
+8901,Black mask (10),1200000
+8921,Black mask,1200000
+8924,Bandana eyepatch,1876
+8925,Bandana eyepatch,1034
+8926,Bandana eyepatch,896
+8927,Bandana eyepatch,1899
+8928,Hat eyepatch,22400
+9003,Security book,21
+9004,Stronghold notes,13
+9026,Ivory comb,52
+9028,Golden scarab,991
+9030,Stone scarab,173
+9032,Pottery scarab,73
+9034,Golden statuette,1248
+9036,Pottery statuette,91
+9038,Stone statuette,197
+9040,Gold seal,764
+9042,Stone seal,147
+9044,Pharaoh's sceptre (3),6900000
+9050,Pharaoh's sceptre,6800000
+9052,Locust meat,8
+9075,Astral rune,187
+9140,Iron bolts,33
+9141,Steel bolts,51
+9142,Mithril bolts,81
+9143,Adamant bolts,197
+9144,Runite bolts,456
+9145,Silver bolts,6
+9174,Bronze crossbow,180
+9177,Iron crossbow,29
+9179,Steel crossbow,203
+9181,Mith crossbow,938
+9183,Adamant crossbow,2581
+9185,Rune crossbow,9986
+9187,Jade bolt tips,5
+9188,Topaz bolt tips,423
+9189,Sapphire bolt tips,61
+9190,Emerald bolt tips,68
+9191,Ruby bolt tips,109
+9192,Diamond bolt tips,195
+9193,Dragon bolt tips,262
+9194,Onyx bolt tips,8408
+9236,Opal bolts (e),8
+9238,Pearl bolts (e),11
+9239,Topaz bolts (e),29
+9240,Sapphire bolts (e),59
+9241,Emerald bolts (e),182
+9242,Ruby bolts (e),284
+9243,Diamond bolts (e),401
+9244,Dragon bolts (e),598
+9245,Onyx bolts (e),8703
+9287,Iron bolts (p),83
+9288,Steel bolts (p),102
+9289,Mithril bolts (p),232
+9290,Adamant bolts (p),409
+9291,Runite bolts (p),592
+9292,Silver bolts (p),31
+9294,Iron bolts(p+),65
+9295,Steel bolts(p+),94
+9296,Mithril bolts(p+),606
+9297,Adamant bolts(p+),834
+9298,Runite bolts(p+),1042
+9299,Silver bolts(p+),66
+9301,Iron bolts(p++),185
+9302,Steel bolts(p++),247
+9303,Mithril bolts(p++),1287
+9304,Adamant bolts(p++),1616
+9305,Runite bolts(p++),1907
+9306,Silver bolts(p++),74
+9336,Topaz bolts,551
+9337,Sapphire bolts,157
+9338,Emerald bolts,162
+9339,Ruby bolts,311
+9340,Diamond bolts,396
+9341,Dragon bolts,737
+9342,Onyx bolts,8905
+9375,Bronze bolts (unf),10
+9377,Iron bolts (unf),30
+9378,Steel bolts (unf),48
+9379,Mithril bolts (unf),81
+9380,Adamant bolts(unf),211
+9381,Runite bolts (unf),508
+9382,Silver bolts (unf),9
+9416,Mith grapple tip,431
+9418,Mith grapple,990
+9419,Mith grapple,1154
+9420,Bronze limbs,34
+9423,Iron limbs,189
+9425,Steel limbs,310
+9427,Mithril limbs,672
+9429,Adamantite limbs,2045
+9431,Runite limbs,9286
+9434,Bolt mould,20
+9436,Sinew,151
+9438,Crossbow string,247
+9440,Wooden stock,1
+9442,Oak stock,1
+9444,Willow stock,2
+9446,Teak stock,148
+9448,Maple stock,6
+9450,Mahogany stock,394
+9452,Yew stock,197
+9454,Bronze crossbow (u),15
+9457,Iron crossbow (u),38
+9459,Steel crossbow (u),93
+9461,Mithril crossbow (u),540
+9463,Adamant crossbow (u),1959
+9465,Runite crossbow (u),9385
+9469,Grand seed pod,119500
+9470,Gnome scarf,663300
+9472,Gnome goggles,13700
+9475,Mint cake,951
+9629,Tyras helm,1630
+9634,Vyrewatch top,1704
+9636,Vyrewatch legs,1813
+9638,Vyrewatch shoes,2358
+9640,Citizen top,2746
+9642,Citizen trousers,4177
+9644,Citizen shoes,4116
+9666,Proselyte harness m,27000
+9668,Initiate harness m,21800
+9670,Proselyte harness f,27600
+9672,Proselyte sallet,4729
+9674,Proselyte hauberk,11500
+9676,Proselyte cuisse,9115
+9678,Proselyte tasset,7156
+9729,Elemental helmet,1288
+9731,Mind shield,18400
+9733,Mind helmet,1544
+9735,Desert goat horn,202
+9736,Goat horn dust,251
+9739,Combat potion(4),621
+9741,Combat potion(3),323
+9743,Combat potion(2),408
+9745,Combat potion(1),268
+9843,Oak cape rack,11
+9844,Teak cape rack,36
+9845,Mahogany cape rack,479
+9846,Gilded cape rack,2404
+9847,Marble cape rack,20500
+9848,Magic cape rack,33800
+9849,Oak toy box,11
+9850,Teak toy box,25
+9851,Mahogany toy box,2183
+9852,Oak magic wardrobe,12
+9853,Carved oak magic wardrobe,12
+9854,Teak magic wardrobe,75
+9855,Carved teak magic wardrobe,59
+9856,Mahogany magic wardrobe,961
+9857,Gilded magic wardrobe,1230
+9858,Marble magic wardrobe,14200
+9859,Oak armour case,9
+9860,Teak armour case,63
+9861,Mahogany armour case,1033
+9862,Oak treasure chest,10
+9863,Teak treasure chest,64
+9864,M. treasure chest,696
+9865,Oak fancy dress box,9
+9866,Teak fancy dress box,63
+9867,Mahogany fancy dress box,1456
+9978,Raw bird meat,8
+9980,Roast bird meat,12
+9986,Raw beast meat,13
+9988,Roast beast meat,14
+9994,Spicy tomato,58
+9996,Spicy minced meat,29
+9998,Hunter potion(4),5297
+10000,Hunter potion(3),3846
+10002,Hunter potion(2),5811
+10004,Hunter potion(1),3122
+10006,Bird snare,1
+10008,Box trap,53
+10010,Butterfly net,3
+10012,Butterfly jar,141
+10014,Black warlock,1904
+10016,Snowy knight,141
+10018,Sapphire glacialis,646
+10020,Ruby harvest,197
+10025,Magic box,408
+10029,Teasing stick,1
+10031,Rabbit snare,1
+10033,Chinchompa,1176
+10034,Red chinchompa,1791
+10035,Kyatt legs,2277
+10037,Kyatt top,1970
+10039,Kyatt hat,3736
+10041,Larupia legs,1591
+10043,Larupia top,1882
+10045,Larupia hat,3557
+10047,Graahk legs,2254
+10049,Graahk top,2528
+10051,Graahk headdress,2958
+10053,Wood camo top,7577
+10055,Wood camo legs,10000
+10057,Jungle camo top,3242
+10059,Jungle camo legs,3429
+10061,Desert camo top,8433
+10063,Desert camo legs,8779
+10065,Polar camo top,5684
+10067,Polar camo legs,4852
+10069,Spotted cape,941
+10071,Spottier cape,5415
+10075,Gloves of silence,3150
+10077,Spiky vambraces,218
+10079,Green spiky vambs,1580
+10081,Blue spiky vambs,2489
+10083,Red spiky vambs,1886
+10085,Black spiky vambs,3019
+10087,Stripy feather,5
+10088,Red feather,9
+10089,Blue feather,11
+10090,Yellow feather,45
+10091,Orange feather,5
+10093,Tatty larupia fur,897
+10095,Larupia fur,1648
+10097,Tatty graahk fur,690
+10099,Graahk fur,2561
+10101,Tatty kyatt fur,877
+10103,Kyatt fur,2805
+10105,Kebbit spike,510
+10107,Long kebbit spike,1249
+10109,Kebbit teeth,2640
+10111,Kebbit teeth dust,3213
+10113,Kebbit claws,289
+10115,Dark kebbit fur,778
+10117,Polar kebbit fur,108
+10119,Feldip weasel fur,175
+10121,Common kebbit fur,2721
+10123,Desert devil fur,1430
+10125,Spotted kebbit fur,14
+10127,Dashing kebbit fur,1833
+10129,Barb-tail harpoon,18
+10132,Strung rabbit foot,2036
+10134,Rabbit foot,2016
+10136,Rainbow fish,137
+10138,Raw rainbow fish,302
+10142,Guam tar,1
+10143,Marrentill tar,1
+10144,Tarromin tar,1
+10145,Harralander tar,10
+10146,Orange salamander,27
+10147,Red salamander,86
+10148,Black salamander,177
+10149,Swamp lizard,101
+10150,Noose wand,2
+10156,Hunters' crossbow,1969
+10158,Kebbit bolts,87
+10159,Long kebbit bolts,662
+10280,Willow comp bow,4152
+10282,Yew comp bow,991
+10284,Magic comp bow,1566
+10286,Rune helm (h1),41900
+10288,Rune helm (h2),22200
+10290,Rune helm (h3),23600
+10292,Rune helm (h4),22300
+10294,Rune helm (h5),21900
+10296,Adamant helm (h1),4249
+10298,Adamant helm (h2),4019
+10300,Adamant helm (h3),3902
+10302,Adamant helm (h4),3919
+10304,Adamant helm (h5),4016
+10306,Black helm (h1),5723
+10308,Black helm (h2),4874
+10310,Black helm (h3),4014
+10312,Black helm (h4),4588
+10314,Black helm (h5),6130
+10316,Bob's red shirt,27200
+10318,Bob's blue shirt,26600
+10320,Bob's green shirt,24500
+10322,Bob's black shirt,37900
+10324,Bob's purple shirt,25900
+10326,Purple firelighter,46
+10327,White firelighter,51
+10330,3rd age range top,33000000
+10332,3rd age range legs,13100000
+10334,3rd age range coif,6600000
+10336,3rd age vambraces,5500000
+10338,3rd age robe top,64100000
+10340,3rd age robe,17100000
+10342,3rd age mage hat,7400000
+10344,3rd age amulet,11200000
+10346,3rd age platelegs,65300000
+10348,3rd age platebody,57900000
+10350,3rd age full helmet,19200000
+10352,3rd age kiteshield,26300000
+10354,Amulet of glory (t4),60700
+10362,Amulet of glory (t),61800
+10364,Strength amulet (t),17700
+10366,Amulet of magic (t),82300
+10368,Zamorak bracers,34100
+10370,Zamorak d'hide,406600
+10372,Zamorak chaps,290400
+10374,Zamorak coif,76200
+10376,Guthix bracers,6406
+10378,Guthix dragonhide,140800
+10380,Guthix chaps,89900
+10382,Guthix coif,75600
+10384,Saradomin bracers,29600
+10386,Saradomin d'hide,388300
+10388,Saradomin chaps,260800
+10390,Saradomin coif,78200
+10392,A powdered wig,22100
+10394,Flared trousers,949900
+10396,Pantaloons,7392
+10398,Sleeping cap,14200
+10400,Black elegant shirt,31100
+10402,Black elegant legs,5053
+10404,Red elegant shirt,80600
+10406,Red elegant legs,42300
+10408,Blue elegant shirt,101000
+10410,Blue elegant legs,39400
+10412,Green elegant shirt,93900
+10414,Green elegant legs,34400
+10416,Purple elegant shirt,4170
+10418,Purple elegant legs,2097
+10420,White elegant blouse,7061
+10422,White elegant skirt,1777
+10424,Red elegant blouse,6758
+10426,Red elegant skirt,2578
+10428,Blue elegant blouse,19800
+10430,Blue elegant skirt,2603
+10432,Green elegant blouse,7304
+10434,Green elegant skirt,1706
+10436,Purple elegant blouse,1105
+10438,Purple elegant skirt,968
+10440,Saradomin crozier,3678
+10442,Guthix crozier,3912
+10444,Zamorak crozier,4910
+10446,Saradomin cloak,71100
+10448,Guthix cloak,19800
+10450,Zamorak cloak,39600
+10452,Saradomin mitre,33600
+10454,Guthix mitre,29500
+10456,Zamorak mitre,40800
+10458,Saradomin robe top,208200
+10460,Zamorak robe top,329300
+10462,Guthix robe top,87600
+10464,Saradomin robe legs,154000
+10466,Guthix robe legs,83400
+10468,Zamorak robe legs,142300
+10470,Saradomin stole,9711
+10472,Guthix stole,6999
+10474,Zamorak stole,5904
+10476,Purple sweets,1963
+10496,Polished buttons,1269
+10564,Granite body,58700
+10589,Granite helm,47000
+10808,Arctic pyre logs,2545
+10810,Arctic pine logs,499
+10812,Split log,934
+10814,Hair,102
+10816,Raw yak meat,58
+10818,Yak-hide,107
+10820,Cured yak-hide,365
+10822,Yak-hide armour,729
+10824,Yak-hide armour,101
+10826,Fremennik shield,1795
+10828,Helm of neitiznot,38500
+10891,Wooden cat,20
+10925,Sanfew serum(4),19100
+10927,Sanfew serum(3),14100
+10929,Sanfew serum(2),9241
+10931,Sanfew serum(1),4501
+10937,Nail beast nails,5665
+10952,Slayer bell,250
+10954,Frog-leather body,1613
+10956,Frog-leather chaps,665
+10958,Frog-leather boots,1003
+10973,Light orb,118
+10978,Swamp weed,131
+10981,Cave goblin wire,985
+10999,Goblin book,62
+11037,Brine sabre,307400
+11061,Ancient mace,2345
+11065,Bracelet mould,320
+11069,Gold bracelet,191
+11072,Sapphire bracelet,504
+11074,Bracelet of clay,617
+11076,Emerald bracelet,758
+11079,Castle wars bracelet(3),927
+11085,Ruby bracelet,1170
+11088,Inoculation bracelet,1297
+11090,Phoenix necklace,2287
+11092,Diamond bracelet,2053
+11095,Abyssal bracelet(5),2320
+11105,Skills necklace(4),12800
+11113,Skills necklace,12400
+11115,Dragonstone bracelet,11900
+11118,Combat bracelet(4),12600
+11126,Combat bracelet,12300
+11128,Berserker necklace,3000000
+11130,Onyx bracelet,3000000
+11133,Regen bracelet,3000000
+11200,Dwarven helmet,47800
+11205,Shrunk ogleroot,16
+11212,Dragon arrow,1263
+11227,Dragon arrow(p),1488
+11228,Dragon arrow(p+),1940
+11229,Dragon arrow(p++),2751
+11230,Dragon dart,3528
+11231,Dragon dart(p),4212
+11232,Dragon dart tip,3859
+11233,Dragon dart(p+),4124
+11234,Dragon dart(p++),4389
+11235,Dark bow,653000
+11237,Dragon arrowtips,1360
+11238,Baby impling jar,1889
+11240,Young impling jar,1829
+11242,Gourmet impling jar,2720
+11244,Earth impling jar,1875
+11246,Essence impling jar,2661
+11248,Eclectic impling jar,3721
+11250,Nature impling jar,3438
+11252,Magpie impling jar,19000
+11254,Ninja impling jar,30100
+11256,Dragon impling jar,401200
+11260,Impling jar,1045
+11280,Cavalier mask,100100
+11284,Dragonfire shield,7500000
+11286,Draconic visage,7200000
+11324,Roe,30
+11326,Caviar,162
+11328,Leaping trout,3
+11330,Leaping salmon,7
+11332,Leaping sturgeon,60
+11334,Fish offcuts,71
+11335,Dragon full helm,42400000
+11367,Bronze hasta,56
+11369,Iron hasta,165
+11371,Steel hasta,126
+11373,Mithril hasta,347
+11375,Adamant hasta,1021
+11377,Rune hasta,12000
+11379,Bronze hasta(p),5062
+11382,Bronze hasta(p+),5228
+11384,Bronze hasta(p++),5406
+11386,Iron hasta(p),3074
+11389,Iron hasta(p+),3000
+11391,Iron hasta(p++),3064
+11393,Steel hasta(p),9471
+11396,Steel hasta(p+),9818
+11398,Steel hasta(p++),9767
+11400,Mithril hasta(p),10000
+11403,Mithril hasta(p+),9978
+11405,Mithril hasta(p++),10300
+11407,Adamant hasta(p),4843
+11410,Adamant hasta(p+),4881
+11412,Adamant hasta(p++),7260
+11414,Rune hasta(p),39100
+11417,Rune hasta(p+),37200
+11419,Rune hasta(p++),20400
+11429,Attack mix(2),208
+11431,Attack mix(1),199
+11433,Antipoison mix(2),1280
+11435,Antipoison mix(1),1213
+11437,Relicym's mix(2),494
+11439,Relicym's mix(1),250
+11441,Strength mix(1),2580
+11443,Strength mix(2),2237
+11445,Combat mix(2),559
+11447,Combat mix(1),294
+11449,Restore mix(2),5415
+11451,Restore mix(1),3482
+11453,Energy mix(2),576
+11455,Energy mix(1),241
+11457,Defence mix(2),40
+11459,Defence mix(1),18
+11461,Agility mix(2),1446
+11463,Agility mix(1),739
+11465,Prayer mix(2),5238
+11467,Prayer mix(1),1580
+11469,Superattack mix(2),827
+11471,Superattack mix(1),2065
+11473,Anti-poison supermix(2),1756
+11475,Anti-poison supermix(1),2377
+11477,Fishing mix(2),105
+11479,Fishing mix(1),55
+11481,Super energy mix(2),2822
+11483,Super energy mix(1),777
+11485,Super str. mix(2),1360
+11487,Super str. mix(1),1778
+11489,Magic essence mix(2),757
+11491,Magic essence mix(1),268
+11493,Super restore mix(2),6884
+11495,Super restore mix(1),4018
+11497,Super def. mix(2),836
+11499,Super def. mix(1),418
+11501,Antidote+ mix(2),3421
+11503,Antidote+ mix(1),1941
+11505,Antifire mix(2),891
+11507,Antifire mix(1),424
+11509,Ranging mix(2),2051
+11511,Ranging mix(1),365
+11513,Magic mix(2),2548
+11515,Magic mix(1),1635
+11517,Hunting mix(2),234
+11519,Hunting mix(1),104
+11521,Zamorak mix(2),508
+11523,Zamorak mix(1),250
+11785,Armadyl crossbow,31600000
+11787,Steam battlestaff,674100
+11789,Mystic steam staff,689700
+11791,Staff of the dead,5800000
+11798,Godsword blade,490000
+11802,Armadyl godsword,18300000
+11804,Bandos godsword,9600000
+11806,Saradomin godsword,42700000
+11808,Zamorak godsword,4400000
+11810,Armadyl hilt,17600000
+11812,Bandos hilt,8700000
+11814,Saradomin hilt,41900000
+11816,Zamorak hilt,4400000
+11818,Godsword shard 1,154500
+11820,Godsword shard 2,153800
+11822,Godsword shard 3,154100
+11824,Zamorakian spear,8600000
+11826,Armadyl helmet,4400000
+11828,Armadyl chestplate,42400000
+11830,Armadyl chainskirt,33400000
+11832,Bandos chestplate,19000000
+11834,Bandos tassets,30600000
+11836,Bandos boots,199500
+11838,Saradomin sword,959600
+11840,Dragon boots,362700
+11874,Broad arrowheads,56
+11875,Broad bolts,64
+11876,Unfinished broad bolts,58
+11889,Zamorakian hasta,8900000
+11902,Leaf-bladed sword,40400
+11905,Trident of the seas (full),1200000
+11908,Uncharged trident,71800
+11920,Dragon pickaxe,4700000
+11924,Malediction ward,3300000
+11926,Odium ward,2900000
+11928,Odium shard 1,423900
+11929,Odium shard 2,934200
+11930,Odium shard 3,1200000
+11931,Malediction shard 1,265400
+11932,Malediction shard 2,509400
+11933,Malediction shard 3,1600000
+11934,Raw dark crab,1059
+11936,Dark crab,1125
+11940,Dark fishing bait,3
+11943,Lava dragon bones,6005
+11951,Extended antifire (4),488
+11953,Extended antifire (3),374
+11955,Extended antifire (2),427
+11957,Extended antifire (1),227
+11959,Black chinchompa,3252
+11960,Extended antifire mix(2),1037
+11962,Extended antifire mix(1),451
+11964,Amulet of glory (t6),71900
+11968,Skills necklace(6),14300
+11972,Combat bracelet(6),12600
+11978,Amulet of glory(6),14100
+11980,Ring of wealth (5),13800
+11990,Fedora,9307
+11992,Lava scale,2468
+11994,Lava scale shard,372
+11998,Smoke battlestaff,3100000
+12000,Mystic smoke staff,3100000
+12002,Occult necklace,831000
+12004,Kraken tentacle,563100
+12007,Jar of dirt,4879
+12193,Ancient robe top,123500
+12195,Ancient robe legs,107600
+12197,Ancient cloak,22200
+12199,Ancient crozier,5199
+12201,Ancient stole,5139
+12203,Ancient mitre,30600
+12205,Bronze platebody (g),136400
+12207,Bronze platelegs (g),39400
+12209,Bronze plateskirt (g),2487
+12211,Bronze full helm (g),54800
+12213,Bronze kiteshield (g),71900
+12215,Bronze platebody (t),20800
+12217,Bronze platelegs (t),5003
+12219,Bronze plateskirt (t),1067
+12221,Bronze full helm (t),14100
+12223,Bronze kiteshield (t),7313
+12225,Iron platebody (t),162100
+12227,Iron platelegs (t),32900
+12229,Iron plateskirt (t),1647
+12231,Iron full helm (t),134600
+12233,Iron kiteshield (t),80100
+12235,Iron platebody (g),606700
+12237,Iron platelegs (g),58900
+12239,Iron plateskirt (g),5669
+12241,Iron full helm (g),272500
+12243,Iron kiteshield (g),273300
+12245,Beanie,6251
+12247,Red beret,15900
+12249,Imp mask,18000
+12251,Goblin mask,20300
+12253,Armadyl robe top,83100
+12255,Armadyl robe legs,84600
+12257,Armadyl stole,7242
+12259,Armadyl mitre,32300
+12261,Armadyl cloak,24900
+12263,Armadyl crozier,3998
+12265,Bandos robe top,79400
+12267,Bandos robe legs,85500
+12269,Bandos stole,5338
+12271,Bandos mitre,31100
+12273,Bandos cloak,27700
+12275,Bandos crozier,3501
+12277,Mithril platebody (g),11700
+12279,Mithril platelegs (g),6111
+12281,Mithril kiteshield (g),11200
+12283,Mithril full helm (g),10100
+12285,Mithril plateskirt (g),2177
+12287,Mithril platebody (t),7667
+12289,Mithril platelegs (t),4251
+12291,Mithril kiteshield (t),4423
+12293,Mithril full helm (t),3161
+12295,Mithril plateskirt (t),1254
+12297,Black pickaxe,8842
+12299,White headband,3453
+12301,Blue headband,2537
+12303,Gold headband,1232
+12305,Pink headband,3365
+12307,Green headband,1910
+12309,Pink boater,13300
+12311,Purple boater,1783
+12313,White boater,2387
+12315,Pink elegant shirt,2520
+12317,Pink elegant legs,1210
+12319,Crier hat,6167
+12321,White cavalier,10900
+12323,Red cavalier,4343
+12325,Navy cavalier,2762
+12327,Red d'hide body (g),8524
+12329,Red d'hide chaps (g),17900
+12331,Red d'hide body (t),6361
+12333,Red d'hide chaps (t),3883
+12335,Briefcase,255200
+12337,Sagacious spectacles,3100000
+12339,Pink elegant blouse,3045
+12341,Pink elegant skirt,2136
+12343,Gold elegant blouse,1172
+12345,Gold elegant skirt,1043
+12347,Gold elegant shirt,2759
+12349,Gold elegant legs,2626
+12351,Musketeer hat,272200
+12353,Monocle,9480
+12355,Big pirate hat,154000
+12357,Katana,222000
+12359,Leprechaun hat,6912
+12361,Cat mask,9117
+12363,Bronze dragon mask,10800
+12365,Iron dragon mask,7441
+12367,Steel dragon mask,6709
+12369,Mithril dragon mask,8062
+12371,Lava dragon mask,1900000
+12373,Dragon cane,32200
+12375,Black cane,15800
+12377,Adamant cane,872
+12379,Rune cane,8408
+12381,Black d'hide body (g),35800
+12383,Black d'hide chaps (g),1100000
+12385,Black d'hide body (t),12800
+12387,Black d'hide chaps (t),141000
+12389,Gilded scimitar,11300000
+12391,Gilded boots,6600000
+12393,Royal gown top,53400
+12395,Royal gown bottom,24100
+12397,Royal crown,88900
+12399,Partyhat & specs,6200000
+12402,Nardah teleport,4530
+12403,Digsite teleport,13200
+12404,Feldip hills teleport,1813
+12405,Lunar isle teleport,3424
+12406,Mort'ton teleport,7733
+12407,Pest control teleport,425
+12408,Piscatoris teleport,7896
+12409,Tai bwo wannai teleport,9955
+12410,Elf camp teleport,3943
+12411,Mos le'harmless teleport,571
+12412,Pirate hat & patch,173000
+12422,3rd age wand,125300000
+12424,3rd age bow,375300000
+12426,3rd age longsword,930600000
+12428,Penguin mask,11200
+12430,Afro,120500
+12432,Top hat,158600
+12434,Top hat & monocle,206600
+12437,3rd age cloak,359300000
+12439,Royal sceptre,40500
+12441,Musketeer tabard,32900
+12443,Musketeer pants,25800
+12445,Black skirt (g),38100
+12447,Black skirt (t),31000
+12449,Black wizard robe (g),442800
+12451,Black wizard robe (t),215000
+12453,Black wizard hat (g),312100
+12455,Black wizard hat (t),210700
+12460,Ancient platebody,43100
+12462,Ancient platelegs,48900
+12464,Ancient plateskirt,37700
+12466,Ancient full helm,50300
+12468,Ancient kiteshield,65800
+12470,Armadyl platebody,39500
+12472,Armadyl platelegs,43400
+12474,Armadyl plateskirt,38000
+12476,Armadyl full helm,27900
+12478,Armadyl kiteshield,36400
+12480,Bandos platebody,42500
+12482,Bandos platelegs,39800
+12484,Bandos plateskirt,38100
+12486,Bandos full helm,23700
+12488,Bandos kiteshield,34600
+12490,Ancient bracers,7364
+12492,Ancient d'hide,168200
+12494,Ancient chaps,90700
+12496,Ancient coif,77200
+12498,Bandos bracers,24000
+12500,Bandos d'hide,132100
+12502,Bandos chaps,86900
+12504,Bandos coif,72900
+12506,Armadyl bracers,82100
+12508,Armadyl d'hide,338300
+12510,Armadyl chaps,245900
+12512,Armadyl coif,99200
+12514,Explorer backpack,32400
+12516,Pith helmet,2978
+12518,Green dragon mask,7106
+12520,Blue dragon mask,6093
+12522,Red dragon mask,9346
+12524,Black dragon mask,20500
+12526,Fury ornament kit,1900000
+12528,Dark infinity colour kit,42900
+12530,Light infinity colour kit,8435
+12532,Dragon sq shield ornament kit,7825
+12534,Dragon chainbody ornament kit,13000
+12536,Dragon legs/skirt ornament kit,102100
+12538,Dragon full helm ornament kit,11000
+12540,Deerstalker,20800
+12596,Rangers' tunic,11000000
+12598,Holy sandals,455900
+12601,Ring of the gods,11600000
+12603,Tyrannical ring,2000000
+12605,Treasonous ring,768400
+12613,Bandos page 1,3393
+12614,Bandos page 2,2791
+12615,Bandos page 3,2679
+12616,Bandos page 4,2317
+12617,Armadyl page 1,231200
+12618,Armadyl page 2,415300
+12619,Armadyl page 3,245100
+12620,Armadyl page 4,457500
+12621,Ancient page 1,191000
+12622,Ancient page 2,146500
+12623,Ancient page 3,215700
+12624,Ancient page 4,180100
+12625,Stamina potion(4),6779
+12627,Stamina potion(3),5068
+12629,Stamina potion(2),3492
+12631,Stamina potion(1),1769
+12633,Stamina mix(2),4273
+12635,Stamina mix(1),1729
+12640,Amylase crystal,1343
+12642,Lumberyard teleport,10500
+12695,Super combat potion(4),15500
+12697,Super combat potion(3),11700
+12699,Super combat potion(2),7902
+12701,Super combat potion(1),3936
+12757,Blue dark bow paint,143000
+12759,Green dark bow paint,150200
+12761,Yellow dark bow paint,140400
+12763,White dark bow paint,144600
+12769,Frozen whip mix,131000
+12771,Volcanic whip mix,127800
+12775,Annakarl teleport,2643
+12776,Carrallangar teleport,2675
+12777,Dareeyak teleport,2650
+12778,Ghorrock teleport,2640
+12779,Kharyrll teleport,2652
+12780,Lassar teleport,2587
+12781,Paddewwa teleport,2447
+12782,Senntisten teleport,2781
+12783,Ring of wealth scroll,15300
+12786,Magic shortbow scroll,26800
+12789,Clue box,27700
+12798,Steam staff upgrade kit,76200
+12800,Dragon pickaxe upgrade kit,81700
+12802,Ward upgrade kit,103800
+12804,Saradomin's tear,6200000
+12817,Elysian spirit shield,520700000
+12819,Elysian sigil,671600000
+12821,Spectral spirit shield,52200000
+12823,Spectral sigil,54800000
+12825,Arcane spirit shield,124200000
+12827,Arcane sigil,127400000
+12829,Spirit shield,172600
+12831,Blessed spirit shield,1000000
+12833,Holy elixir,732900
+12846,Bounty teleport scroll,2200000
+12849,Granite clamp,71400
+12851,Amulet of the damned (full),142800
+12863,Dwarf cannon set,755700
+12865,Green dragonhide set,8171
+12867,Blue dragonhide set,10800
+12869,Red dragonhide set,13300
+12871,Black dragonhide set,17000
+12873,Guthan's armour set,4000000
+12875,Verac's armour set,1700000
+12877,Dharok's armour set,3400000
+12879,Torag's armour set,928800
+12881,Ahrim's armour set,4600000
+12883,Karil's armour set,2200000
+12885,Jar of sand,778700
+12900,Uncharged toxic trident,5200000
+12902,Toxic staff (uncharged),11000000
+12905,Anti-venom(4),4128
+12907,Anti-venom(3),3229
+12909,Anti-venom(2),2208
+12911,Anti-venom(1),1097
+12913,Anti-venom+(4),16300
+12915,Anti-venom+(3),13300
+12917,Anti-venom+(2),7627
+12919,Anti-venom+(1),3730
+12922,Tanzanite fang,5100000
+12924,Toxic blowpipe (empty),5200000
+12927,Serpentine visage,5100000
+12929,Serpentine helm (uncharged),5100000
+12932,Magic fang,5100000
+12934,Zulrah's scales,255
+12936,Jar of swamp,18000
+12938,Zul-andra teleport,13900
+12960,Bronze set (lg),267
+12962,Bronze set (sk),347
+12964,Bronze trimmed set (lg),70100
+12966,Bronze trimmed set (sk),62200
+12968,Bronze gold-trimmed set (lg),325900
+12970,Bronze gold-trimmed set (sk),305400
+12972,Iron set (lg),478
+12974,Iron set (sk),499
+12976,Iron trimmed set (lg),430900
+12978,Iron trimmed set (sk),448000
+12980,Iron gold-trimmed set (lg),1300000
+12982,Iron gold-trimmed set (sk),1200000
+12984,Steel set (lg),1986
+12986,Steel set (sk),2777
+12988,Black set (lg),9272
+12990,Black set (sk),10800
+12992,Black trimmed set (lg),193000
+12994,Black trimmed set (sk),132200
+12996,Black gold-trimmed set (lg),689100
+12998,Black gold-trimmed set (sk),523400
+13000,Mithril set (lg),6666
+13002,Mithril set (sk),7442
+13004,Mithril trimmed set (lg),22800
+13006,Mithril trimmed set (sk),19500
+13008,Mithril gold-trimmed set (lg),47000
+13010,Mithril gold-trimmed set (sk),39300
+13012,Adamant set (lg),18500
+13014,Adamant set (sk),20100
+13016,Adamant trimmed set (lg),30100
+13018,Adamant trimmed set (sk),32300
+13020,Adamant gold-trimmed set (lg),141900
+13022,Adamant gold-trimmed set (sk),112000
+13024,Rune armour set (lg),130600
+13026,Rune armour set (sk),131200
+13028,Rune trimmed set (lg),176700
+13030,Rune trimmed set (sk),179500
+13032,Rune gold-trimmed set (lg),419700
+13034,Rune gold-trimmed set (sk),331200
+13036,Gilded armour set (lg),7600000
+13038,Gilded armour set (sk),4100000
+13040,Saradomin armour set (lg),318600
+13042,Saradomin armour set (sk),287900
+13044,Zamorak armour set (lg),515700
+13046,Zamorak armour set (sk),406100
+13048,Guthix armour set (lg),170500
+13050,Guthix armour set (sk),172500
+13052,Armadyl rune armour set (lg),164900
+13054,Armadyl rune armour set (sk),187000
+13056,Bandos rune armour set (lg),161400
+13058,Bandos rune armour set (sk),169800
+13060,Ancient rune armour set (lg),220700
+13062,Ancient rune armour set (sk),212300
+13064,Combat potion set,1049
+13066,Super potion set,4272
+13149,Holy book page set,17100
+13151,Unholy book page set,1900000
+13153,Book of balance page set,20600
+13155,Book of war page set,22100
+13157,Book of law page set,1400000
+13159,Book of darkness page set,782400
+13161,Zamorak dragonhide set,828300
+13163,Saradomin dragonhide set,797100
+13165,Guthix dragonhide set,339000
+13167,Bandos dragonhide set,328400
+13169,Armadyl dragonhide set,811900
+13171,Ancient dragonhide set,366700
+13173,Partyhat set,187800
+13175,Halloween mask set,43700
+13190,Old school bond,3900000
+13227,Eternal crystal,3700000
+13229,Pegasian crystal,135100
+13231,Primordial crystal,27400000
+13233,Smouldering stone,1200000
+13235,Eternal boots,5000000
+13237,Pegasian boots,36300000
+13239,Primordial boots,27900000
+13245,Jar of souls,91300
+13256,Saradomin's light,63400
+13263,Abyssal bludgeon,30200000
+13265,Abyssal dagger,7800000
+13267,Abyssal dagger (p),7300000
+13269,Abyssal dagger (p+),7200000
+13271,Abyssal dagger (p++),7800000
+13277,Jar of miasma,50500
+13383,Xerician fabric,2301
+13385,Xerician hat,6872
+13387,Xerician top,10300
+13389,Xerician robe,9223
+13391,Lizardman fang,23
+13421,Saltpetre,3
+13431,Sandworms,95
+13439,Raw anglerfish,1500
+13441,Anglerfish,1533
+13448,Ensouled goblin head,201
+13451,Ensouled monkey head,310
+13454,Ensouled imp head,525
+13457,Ensouled minotaur head,702
+13460,Ensouled scorpion head,961
+13463,Ensouled bear head,915
+13466,Ensouled unicorn head,1329
+13469,Ensouled dog head,1075
+13472,Ensouled chaos druid head,1024
+13475,Ensouled giant head,1304
+13478,Ensouled ogre head,1583
+13481,Ensouled elf head,2408
+13484,Ensouled troll head,2169
+13487,Ensouled horror head,2559
+13490,Ensouled kalphite head,3143
+13493,Ensouled dagannoth head,3590
+13496,Ensouled bloodveld head,4326
+13499,Ensouled tzhaar head,4499
+13502,Ensouled demon head,5441
+13505,Ensouled aviansie head,6696
+13508,Ensouled abyssal head,6864
+13511,Ensouled dragon head,8640
+13573,Dynamite,497
+13576,Dragon warhammer,54700000
+13652,Dragon claws,85800000
+13657,Grape seed,3991
+19478,Light ballista,807300
+19481,Heavy ballista,791100
+19484,Dragon javelin,1148
+19486,Dragon javelin(p),1704
+19488,Dragon javelin(p+),2650
+19490,Dragon javelin(p++),2819
+19493,Zenyte,13900000
+19496,Uncut zenyte,13300000
+19501,Zenyte amulet (u),13800000
+19529,Zenyte shard,12700000
+19532,Zenyte bracelet,15300000
+19535,Zenyte necklace,15900000
+19538,Zenyte ring,15400000
+19541,Zenyte amulet,14400000
+19544,Tormented bracelet,15900000
+19547,Necklace of anguish,15900000
+19550,Ring of suffering,15900000
+19553,Amulet of torture,15900000
+19570,Bronze javelin heads,26
+19572,Iron javelin heads,41
+19574,Steel javelin heads,81
+19576,Mithril javelin heads,147
+19578,Adamant javelin heads,184
+19580,Rune javelin heads,612
+19582,Dragon javelin heads,1170
+19584,Javelin shaft,1
+19586,Light frame,28200
+19589,Heavy frame,43300
+19592,Ballista limbs,30000
+19595,Incomplete light ballista,67300
+19598,Incomplete heavy ballista,89300
+19601,Ballista spring,29700
+19604,Unstrung light ballista,92100
+19607,Unstrung heavy ballista,104200
+19610,Monkey tail,651100
+19613,Lumbridge graveyard teleport,1493
+19615,Draynor manor teleport,1611
+19617,Mind altar teleport,1559
+19619,Salve graveyard teleport,1658
+19621,Fenkenstrain's castle teleport,1765
+19623,West ardougne teleport,1718
+19625,Harmony island teleport,1817
+19627,Cemetery teleport,1586
+19629,Barrows teleport,3551
+19631,Ape atoll teleport,4427
+19653,Golovanova fruit top,591
+19656,Uncooked botanical pie,2817
+19662,Botanical pie,1250
+19665,Damaged monkey tail,135
+19669,Redwood logs,315
+19672,Redwood pyre logs,1423
+19701,Jar of darkness,3600000
+19707,Amulet of eternal glory,21500000
+19724,Left eye patch,23100
+19727,Double eye patch,55800
+19912,Zombie head,2603
+19915,Cyclops head,3135
+19918,Nunchaku,5308
+19921,Ancient d'hide boots,896200
+19924,Bandos d'hide boots,877300
+19927,Guthix d'hide boots,897600
+19930,Armadyl d'hide boots,1200000
+19933,Saradomin d'hide boots,997500
+19936,Zamorak d'hide boots,1000000
+19943,Arceuus house scarf,7666
+19946,Hosidius house scarf,7618
+19949,Lovakengj house scarf,9699
+19952,Piscarilius house scarf,7240
+19955,Shayzien house scarf,17500
+19958,Dark tuxedo jacket,2700000
+19961,Dark tuxedo cuffs,260900
+19964,Dark trousers,847700
+19967,Dark tuxedo shoes,676400
+19970,Dark bow tie,364400
+19973,Light tuxedo jacket,3100000
+19976,Light tuxedo cuffs,263000
+19979,Light trousers,436700
+19982,Light tuxedo shoes,669100
+19985,Light bow tie,383000
+19988,Blacksmith's helm,35000
+19991,Bucket helm,59800
+19994,Ranger gloves,2900000
+19997,Holy wraps,899900
+20002,Dragon scimitar ornament kit,1400000
+20005,Ring of nature,12500000
+20008,Fancy tiara,12400
+20011,3rd age axe,509800000
+20014,3rd age pickaxe,799800000
+20017,Ring of coins,17000000
+20020,Lesser demon mask,18400
+20023,Greater demon mask,28200
+20026,Black demon mask,299400
+20029,Old demon mask,92600
+20032,Jungle demon mask,44200
+20035,Samurai kasa,531000
+20038,Samurai shirt,224300
+20041,Samurai gloves,464400
+20044,Samurai greaves,127500
+20047,Samurai boots,65600
+20050,Obsidian cape (r),4200000
+20053,Half moon spectacles,148400
+20056,Ale of the gods,2300000
+20059,Bucket helm (g),2700000
+20062,Torture ornament kit,4700000
+20065,Occult ornament kit,4500000
+20068,Armadyl godsword ornament kit,938600
+20071,Bandos godsword ornament kit,2900000
+20074,Saradomin godsword ornament kit,4800000
+20077,Zamorak godsword ornament kit,679100
+20080,Mummy's head,1300000
+20083,Mummy's body,1200000
+20086,Mummy's hands,432900
+20089,Mummy's legs,857700
+20092,Mummy's feet,372200
+20095,Ankou mask,11500000
+20098,Ankou top,24200000
+20101,Ankou gloves,5200000
+20104,Ankou's leggings,10800000
+20107,Ankou socks,4700000
+20110,Bowl wig,20600
+20113,Arceuus house hood,33800
+20116,Hosidius house hood,29000
+20119,Lovakengj house hood,27500
+20122,Piscarilius house hood,29100
+20125,Shayzien house hood,106400
+20128,Hood of darkness,282000
+20131,Robe top of darkness,421200
+20134,Gloves of darkness,142000
+20137,Robe bottom of darkness,338300
+20140,Boots of darkness,135100
+20143,Dragon defender ornament kit,1900000
+20146,Gilded med helm,360200
+20149,Gilded chainbody,754300
+20152,Gilded sq shield,341500
+20155,Gilded 2h sword,2400000
+20158,Gilded spear,86900
+20161,Gilded hasta,150400
+20166,Wooden shield (g),122900
+20169,Steel platebody (g),42800
+20172,Steel platelegs (g),10000
+20175,Steel plateskirt (g),2611
+20178,Steel full helm (g),28500
+20181,Steel kiteshield (g),25000
+20184,Steel platebody (t),16200
+20187,Steel platelegs (t),7005
+20190,Steel plateskirt (t),1301
+20193,Steel full helm (t),9705
+20196,Steel kiteshield (t),16700
+20199,Monk's robe top (g),7200000
+20202,Monk's robe (g),1800000
+20205,Golden chef's hat,627800
+20208,Golden apron,244700
+20211,Team cape zero,4000000
+20214,Team cape x,2000000
+20217,Team cape i,1700000
+20220,Holy blessing,24100
+20223,Unholy blessing,95000
+20226,Peaceful blessing,8752
+20229,Honourable blessing,8892
+20232,War blessing,12000
+20235,Ancient blessing,10100
+20238,Charge dragonstone jewellery scroll,405
+20240,Crier coat,20600
+20243,Crier bell,3556
+20246,Black leprechaun hat,3850
+20251,Arceuus banner,1202
+20254,Hosidius banner,1026
+20257,Lovakengj banner,993
+20260,Piscarilius banner,1193
+20263,Shayzien banner,1043
+20266,Black unicorn mask,36800
+20269,White unicorn mask,29000
+20272,Cabbage round shield,4065
+20275,Gnomish firelighter,1421
+20376,Steel trimmed set (lg),66100
+20379,Steel trimmed set (sk),102300
+20382,Steel gold-trimmed set (lg),132700
+20385,Steel gold-trimmed set (sk),139200
+20433,Evil chicken feet,1000000
+20436,Evil chicken wings,600400
+20439,Evil chicken head,602000
+20442,Evil chicken legs,993000
+20517,Elder chaos top,586100
+20520,Elder chaos robe,347500
+20590,Stale baguette,457200
+20595,Elder chaos hood,756900
+20716,Tome of fire (empty),593700
+20718,Burnt page,6053
+20724,Imbued heart,26700000
+20727,Leaf-bladed battleaxe,134600
+20730,Mist battlestaff,131300
+20733,Mystic mist staff,159100
+20736,Dust battlestaff,41500
+20739,Mystic dust staff,75600
+20749,Zamorak's grapes,6800
+20756,Hill giant club,785300
+20849,Dragon thrownaxe,3536
+20997,Twisted bow,1200000000
+21000,Twisted buckler,9300000
+21003,Elder maul,28500000
+21006,Kodai wand,80800000
+21009,Dragon sword,1000000
+21012,Dragon hunter crossbow,127400000
+21015,Dinh's bulwark,8000000
+21018,Ancestral hat,17200000
+21021,Ancestral robe top,87900000
+21024,Ancestral robe bottom,69600000
+21028,Dragon harpoon,6100000
+21034,Dexterous prayer scroll,78000000
+21043,Kodai insignia,75900000
+21047,Torn prayer scroll,46400
+21049,Ancestral robes set,175000000
+21079,Arcane prayer scroll,7600000
+21081,Opal ring,1096
+21084,Jade ring,1316
+21087,Topaz ring,2069
+21090,Opal necklace,1106
+21093,Jade necklace,1197
+21096,Topaz necklace,1460
+21099,Opal amulet (u),442
+21102,Jade amulet (u),713
+21105,Topaz amulet (u),3199
+21108,Opal amulet,372
+21111,Jade amulet,772
+21114,Topaz amulet,5841
+21117,Opal bracelet,488
+21120,Jade bracelet,613
+21123,Topaz bracelet,4969
+21126,Ring of pursuit,683
+21129,Ring of returning(5),672
+21140,Efaritay's aid,984
+21143,Dodgy necklace,887
+21146,Necklace of passage(5),1146
+21157,Necklace of faith,629
+21160,Amulet of bounty,515
+21163,Amulet of chemistry,1007
+21166,Burning amulet(5),6109
+21177,Expeditious bracelet,682
+21180,Flamtaer bracelet,712
+21183,Bracelet of slaughter,5505
